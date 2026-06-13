@@ -62,6 +62,7 @@ public abstract class TreeNode<E> extends Node<E> {
      * @return True if the node is the root node, otherwise false.
      */
     public boolean isRootNode() {
+        // 如果没有父节点说明当前节点为根节点
         return (parentNode == null);
     }
 

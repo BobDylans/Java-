@@ -27,6 +27,8 @@ public final class ActivitySelection {
      * @return A list of indices representing the selected activities that can be
      *         performed without overlap.
      */
+
+    // 这里传入了两个数组,分别是各个活动的开始和结束时间
     public static ArrayList<Integer> activitySelection(int[] startTimes, int[] endTimes) {
         int n = startTimes.length;
 
@@ -37,6 +39,7 @@ public final class ActivitySelection {
         int[][] activities = new int[n][3];
 
         // Populate the 2D array with the activity index, start time, and end time.
+        // 使用一个二维数组记录一下每个活动的编号以及开始结束时间 
         for (int i = 0; i < n; i++) {
             activities[i][0] = i; // Assign the activity index
             activities[i][1] = startTimes[i]; // Assign the start time of the activity
@@ -45,6 +48,7 @@ public final class ActivitySelection {
 
         // Sort activities based on their end times in ascending order.
         // This ensures that we always try to finish earlier activities first.
+        // 这里是重点
         Arrays.sort(activities, Comparator.comparingDouble(activity -> activity[2]));
         int lastEndTime; // Variable to store the end time of the last selected activity
         // List to store the indices of selected activities
