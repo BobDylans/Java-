@@ -1,8 +1,11 @@
 package com.thealgorithms.strings;
 
-/**
- * Class for generating all subsequences of a given string.
+/*
+ * 子序列生成算法。
+ * 使用递归生成字符串的所有子序列（包括空串）。
+ * 子序列是保留原顺序的前提下，任意删除若干字符后得到的序列。
  */
+
 public final class ReturnSubsequence {
     private ReturnSubsequence() {
     }

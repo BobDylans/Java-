@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 子集和问题（动态规划） */
+
+
 public final class SubsetSum {
     private SubsetSum() {
     }

@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 交换相邻二进制位 */
+
+
 /**
  * A utility class to swap every pair of adjacent bits in a given integer.
  * This operation shifts the even-positioned bits to odd positions and vice versa.

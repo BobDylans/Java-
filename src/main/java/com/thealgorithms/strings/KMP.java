@@ -3,6 +3,13 @@ package com.thealgorithms.strings;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+ * KMP - Knuth-Morris-Pratt字符串匹配算法
+ * 
+ * 通过预处理模式串计算前缀函数(部分匹配表),
+ * 在文本中查找模式串所有出现位置,时间复杂度O(n+m)。
+ */
+
 /**
  * Implementation of Knuth–Morris–Pratt algorithm Usage: see the main function
  * for an example

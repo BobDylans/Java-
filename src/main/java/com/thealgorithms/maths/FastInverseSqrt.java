@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 快速平方根倒数算法 */
+
+
 /**
  * @author <a href="https://github.com/siddhant2002">Siddhant Swarup Mallick</a>
  * Program description - To find out the inverse square root of the given number

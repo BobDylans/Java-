@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.queues;
 
+/* 循环队列 */
+
+
 /**
  * The CircularQueue class represents a generic circular queue data structure that uses an array to
  * store elements. This queue allows efficient utilization of space by wrapping around the array,

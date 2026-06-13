@@ -1,5 +1,8 @@
 package com.thealgorithms.scheduling;
 
+/* 随机调度算法 */
+
+
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;

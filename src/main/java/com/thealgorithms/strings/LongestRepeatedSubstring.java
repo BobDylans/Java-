@@ -1,5 +1,13 @@
 package com.thealgorithms.strings;
 
+/*
+ * LongestRepeatedSubstring - 查找最长重复子串
+ * 
+ * 使用后缀数组和Kasai算法构建LCP(最长公共前缀)数组,
+ * 通过找出最大的LCP值来确定字符串中最少出现两次的最长子串。
+ * 时间复杂度: O(n log²n) 构建后缀数组 + O(n) 构建LCP
+ */
+
 /**
  * Finds the longest substring that occurs at least twice in a given string.
  *

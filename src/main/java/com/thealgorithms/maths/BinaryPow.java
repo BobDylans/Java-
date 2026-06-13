@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 二进制快速幂 */
+
+
 public final class BinaryPow {
     private BinaryPow() {
     }

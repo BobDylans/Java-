@@ -1,5 +1,8 @@
 package com.thealgorithms.searches;
 
+/* 多线程线性搜索 */
+
+
 /**
  * LinearSearchThread is a multithreaded implementation of the linear search algorithm.
  * It creates multiple threads to search for a specific number in an array.

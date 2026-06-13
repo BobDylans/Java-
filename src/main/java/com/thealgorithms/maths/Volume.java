@@ -1,6 +1,8 @@
 package com.thealgorithms.maths;
 
-/* Calculate the volume of various shapes.*/
+/* 体积计算工具 */
+
+
 public final class Volume {
     private Volume() {
     }

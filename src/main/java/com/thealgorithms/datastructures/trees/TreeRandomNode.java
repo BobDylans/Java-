@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.trees;
 
+/* 树随机节点获取 */
+
+
 /* Author : Suraj Kumar
   Github : https://github.com/skmodi649
  */

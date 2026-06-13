@@ -1,5 +1,8 @@
 package com.thealgorithms.stacks;
 
+/* 股票跨度问题 */
+
+
 import java.util.Stack;
 
 /**

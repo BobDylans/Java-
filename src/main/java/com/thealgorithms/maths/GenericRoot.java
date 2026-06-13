@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 通用数根计算 */
+
+
 /**
  * Calculates the generic root (repeated digital sum) of a non-negative integer.
  * <p>

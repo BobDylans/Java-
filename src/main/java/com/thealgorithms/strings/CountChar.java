@@ -1,5 +1,14 @@
 package com.thealgorithms.strings;
 
+/*
+ * CountChar - 字符计数工具
+ * 
+ * 统计字符串中非空白字符的数量。
+ */
+
+/**
+ * @author Unknown
+ */
 public final class CountChar {
     private CountChar() {
     }

@@ -1,5 +1,11 @@
 package com.thealgorithms.sorts;
 
+/* 摆动排序 */
+
+/* 波浪排序（Wiggle Sort）
+ * 将数组重新排列成波浪形式：arr[0] <= arr[1] >= arr[2] <= arr[3] >= ...
+ * 使用三分着色（Dutch National Flag）方法找到中位数，然后重新排列数组元素
+ */
 import static com.thealgorithms.maths.Ceil.ceil;
 import static com.thealgorithms.maths.Floor.floor;
 import static com.thealgorithms.searches.QuickSelect.select;

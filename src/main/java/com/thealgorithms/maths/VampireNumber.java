@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 吸血鬼数判定 */
+
+
 import java.util.ArrayList;
 
 /**

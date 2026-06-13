@@ -1,5 +1,7 @@
 package com.thealgorithms.ciphers;
 
+/* Blowfish加密算法 */
+
 /*
  * Java program for Blowfish Algorithm
  * Wikipedia: https://en.wikipedia.org/wiki/Blowfish_(cipher)

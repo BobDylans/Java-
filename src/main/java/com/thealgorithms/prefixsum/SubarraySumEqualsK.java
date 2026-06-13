@@ -1,5 +1,8 @@
 package com.thealgorithms.prefixsum;
 
+/* 和为K的子数组 */
+
+
 import java.util.HashMap;
 import java.util.Map;
 

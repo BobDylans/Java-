@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 回文分割（动态规划） */
+
+
 /**
  * Provides functionality to solve the Palindrome Partitioning II problem, which involves finding
  * the minimum number of partitions needed to divide a given string into palindromic substrings.

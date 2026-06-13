@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 向下取整 */
+
+
 public final class Floor {
 
     private Floor() {

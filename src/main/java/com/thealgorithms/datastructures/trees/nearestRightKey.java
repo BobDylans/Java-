@@ -1,5 +1,7 @@
 package com.thealgorithms.datastructures.trees;
 
+/* Nearest Right Key */
+
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 

@@ -1,5 +1,8 @@
 package com.thealgorithms.conversions;
 
+/* 仿射变换转换器 */
+
+
 /**
  * A utility class to perform affine transformations of the form:
  * y = slope * x + intercept.

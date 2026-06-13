@@ -1,5 +1,8 @@
 package com.thealgorithms.audiofilters;
 
+/* 指数移动平均滤波器 */
+
+
 /**
  * Exponential Moving Average (EMA) Filter for smoothing audio signals.
  *

@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 最小和分割 */
+
+
 import java.util.Arrays;
 
 /*

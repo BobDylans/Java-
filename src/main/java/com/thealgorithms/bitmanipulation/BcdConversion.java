@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* BCD码转换 */
+
+
 /**
  * This class provides methods to convert between BCD (Binary-Coded Decimal) and decimal numbers.
  *

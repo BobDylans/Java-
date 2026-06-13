@@ -1,5 +1,8 @@
 package com.thealgorithms.ciphers;
 
+/* 栅栏密码 */
+
+
 import java.util.Arrays;
 
 /**

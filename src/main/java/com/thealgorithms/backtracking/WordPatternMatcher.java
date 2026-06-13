@@ -1,5 +1,8 @@
 package com.thealgorithms.backtracking;
 
+/* 单词模式匹配（回溯法） */
+
+
 import java.util.HashMap;
 import java.util.Map;
 

@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 约瑟夫问题 */
+
+
 /**
  * There are n friends that are playing a game. The friends are sitting in a circle and are
  * numbered from 1 to n in clockwise order. More formally, moving clockwise from the ith friend

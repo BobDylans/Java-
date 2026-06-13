@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.caches;
 
+/* 后进先出缓存 */
+
+
 import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.HashMap;

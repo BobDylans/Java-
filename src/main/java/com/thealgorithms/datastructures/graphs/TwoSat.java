@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.graphs;
 
+/* 2-SAT问题求解 */
+
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Stack;

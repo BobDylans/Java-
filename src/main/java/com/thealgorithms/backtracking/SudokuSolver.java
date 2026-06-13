@@ -1,5 +1,8 @@
 package com.thealgorithms.backtracking;
 
+/* 数独求解器（回溯法） */
+
+
 /**
  * Sudoku Solver using Backtracking Algorithm
  * Solves a 9x9 Sudoku puzzle by filling empty cells with valid digits (1-9)

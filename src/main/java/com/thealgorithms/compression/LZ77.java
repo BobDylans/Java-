@@ -1,5 +1,7 @@
 package com.thealgorithms.compression;
 
+/* LZ77压缩算法 */
+
 import java.util.ArrayList;
 import java.util.List;
 

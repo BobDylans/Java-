@@ -1,5 +1,12 @@
 package com.thealgorithms.strings;
 
+/*
+ * LengthOfLastWord - 计算字符串中最后一个单词的长度
+ * 
+ * 从字符串末尾向前遍历,跳过尾随空格后统计连续非空格字符的数量。
+ * 时间复杂度: O(n), 空间复杂度: O(1)
+ */
+
 /**
  * The {@code LengthOfLastWord} class provides a utility method to determine
  * the length of the last word in a given string.

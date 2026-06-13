@@ -1,5 +1,8 @@
 package com.thealgorithms.searches;
 
+/* KMP字符串匹配搜索 */
+
+
 class KMPSearch {
 
     int kmpSearch(String pat, String txt) {

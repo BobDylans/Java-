@@ -1,5 +1,11 @@
 package com.thealgorithms.strings.zigZagPattern;
 
+/*
+ * Z字形编码（Zig-Zag Pattern）算法。
+ * 将字符串按照Z字形模式排列，然后按行读取得到编码结果。
+ * 常用于LeetCode"ZigZag Conversion"问题。
+ */
+
 final class ZigZagPattern {
 
     private ZigZagPattern() {

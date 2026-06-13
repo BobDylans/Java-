@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 互相关计算 */
+
+
 /**
  * Class for linear cross-correlation of two discrete signals
  *

@@ -1,5 +1,8 @@
 package com.thealgorithms.stacks;
 
+/* 栈计算后缀表达式 */
+
+
 import java.util.Scanner;
 import java.util.Stack;
 import java.util.function.BiFunction;

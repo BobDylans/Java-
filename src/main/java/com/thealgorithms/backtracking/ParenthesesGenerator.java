@@ -1,5 +1,8 @@
 package com.thealgorithms.backtracking;
 
+/* 括号生成器（回溯法） */
+
+
 import java.util.ArrayList;
 import java.util.List;
 

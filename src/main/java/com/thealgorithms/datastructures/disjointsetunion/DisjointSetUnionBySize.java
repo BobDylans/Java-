@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.disjointsetunion;
 
+/* 按大小合并的并查集 */
+
+
 /**
  * Disjoint Set Union (DSU) with Union by Size.
  * This data structure tracks a set of elements partitioned into disjoint (non-overlapping) subsets.

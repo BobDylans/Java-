@@ -1,5 +1,12 @@
 package com.thealgorithms.strings;
 
+/*
+ * KasaiAlgorithm - Kasai算法构建LCP数组
+ * 
+ * Kasai算法在已知后缀数组的情况下,O(n)时间构建最长公共前缀数组。
+ * LCP数组记录了按字典序排列的后缀之间最长公共前缀的长度。
+ */
+
 /**
  * Kasai's Algorithm for constructing the Longest Common Prefix (LCP) array.
  *

@@ -1,5 +1,8 @@
 package com.thealgorithms.backtracking;
 
+/* 幂和问题（回溯法） */
+
+
 /**
  * Problem Statement:
  * Find the number of ways that a given integer, N, can be expressed as the sum of the Xth powers

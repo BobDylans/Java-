@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.queues;
 
+/* 双端队列 */
+
+
 import java.util.NoSuchElementException;
 
 /**

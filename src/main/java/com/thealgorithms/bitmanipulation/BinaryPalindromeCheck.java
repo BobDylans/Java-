@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 二进制回文数检查 */
+
+
 /**
  * This class contains a method to check if the binary representation of a number is a palindrome.
  * <p>

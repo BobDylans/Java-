@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 计算二进制中1的个数 */
+
+
 /**
  * Utility class to count total set bits from 1 to N
  * A set bit is a bit in binary representation that is 1

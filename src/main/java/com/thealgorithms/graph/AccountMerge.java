@@ -1,5 +1,8 @@
 package com.thealgorithms.graph;
 
+/* 账户合并（并查集） */
+
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;

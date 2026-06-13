@@ -1,5 +1,8 @@
 package com.thealgorithms.ciphers;
 
+/* 波利比乌斯方阵密码 */
+
+
 /**
  * A Java implementation of Polybius Cipher
  * Polybius is a substitution cipher method

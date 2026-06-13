@@ -1,5 +1,7 @@
 package com.thealgorithms.devutils.entities;
 
+/* 进程详情实体类 */
+
 public class ProcessDetails {
     private String processId;
     private int arrivalTime;

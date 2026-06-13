@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 查找第N位二进制位 */
+
+
 /**
  * A utility class to find the Nth bit of a given number.
  *

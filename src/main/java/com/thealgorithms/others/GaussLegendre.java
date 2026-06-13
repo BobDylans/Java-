@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* Gauss-Legendre算法计算π */
+
+
 /**
  * Gauss Legendre Algorithm ref
  * https://en.wikipedia.org/wiki/Gauss–Legendre_algorithm

@@ -1,5 +1,8 @@
 package com.thealgorithms.stacks;
 
+/* 重复括号检测 */
+
+
 import java.util.Stack;
 
 /**

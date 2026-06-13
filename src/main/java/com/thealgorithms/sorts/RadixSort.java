@@ -1,5 +1,11 @@
 package com.thealgorithms.sorts;
 
+/* 基数排序 */
+
+/* 基数排序（Radix Sort）
+ * 按照数字的每一位进行排序，从最低位到最高位
+ * 使用计数排序作为中间步骤，适合整数排序
+ */
 import com.thealgorithms.maths.NumberOfDigits;
 import java.util.Arrays;
 

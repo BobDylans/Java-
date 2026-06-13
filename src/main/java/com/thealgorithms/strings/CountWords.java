@@ -1,5 +1,12 @@
 package com.thealgorithms.strings;
 
+/*
+ * CountWords - 单词计数工具
+ * 
+ * 统计字符串中单词的数量。单词定义为由空格分隔的字符序列。
+ * 提供两种计数方式:直接按空格分割,或先移除特殊字符再计数。
+ */
+
 /**
  * @author Marcus
  */

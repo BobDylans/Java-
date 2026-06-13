@@ -1,5 +1,8 @@
 package com.thealgorithms.stacks;
 
+/* 常数时间获取最小元素 */
+
+
 import java.util.NoSuchElementException;
 import java.util.Stack;
 

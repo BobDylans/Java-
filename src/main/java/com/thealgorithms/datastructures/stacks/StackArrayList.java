@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.stacks;
 
+/* 基于ArrayList的栈 */
+
+
 import java.util.ArrayList;
 import java.util.EmptyStackException;
 

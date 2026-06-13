@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.bloomfilter;
 
+/* 布隆过滤器 */
+
+
 import java.util.Arrays;
 import java.util.BitSet;
 

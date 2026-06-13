@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 最长有效括号（动态规划） */
+
+
 /**
  * Given a string containing just the characters '(' and ')', find the length of
  * the longest valid (well-formed) parentheses substring.

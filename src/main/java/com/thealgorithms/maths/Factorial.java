@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 阶乘计算 */
+
+
 import java.math.BigInteger;
 
 public final class Factorial {

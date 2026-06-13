@@ -1,5 +1,8 @@
 package com.thealgorithms.greedyalgorithms;
 
+/* 分数背包问题（贪心） */
+
+
 import java.util.Arrays;
 import java.util.Comparator;
 

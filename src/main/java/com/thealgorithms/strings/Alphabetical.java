@@ -2,6 +2,13 @@ package com.thealgorithms.strings;
 
 import java.util.Locale;
 
+/*
+ * Alphabetical - 字母顺序检测工具
+ * 
+ * 检测字符串中的字符是否按照Unicode码点升序排列(不区分大小写)。
+ * 所有字符必须是字母,不允许出现非字母字符。
+ */
+
 /**
  * Utility class for checking whether a string's characters are in non-decreasing
  * lexicographical order based on Unicode code points (case-insensitive).

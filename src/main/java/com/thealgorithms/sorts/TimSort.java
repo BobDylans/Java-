@@ -1,5 +1,11 @@
 package com.thealgorithms.sorts;
 
+/* TimSort排序 */
+
+/* Tim排序（Tim Sort）
+ * 融合了归并排序和插入排序的混合排序算法
+ * JDK内置排序算法的基础，对部分有序数组效率很高
+ */
 import static com.thealgorithms.sorts.SortUtils.less;
 
 /**

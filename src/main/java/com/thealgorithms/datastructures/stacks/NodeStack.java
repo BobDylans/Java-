@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.stacks;
 
+/* 节点栈 */
+
+
 /**
  * A stack implementation using linked nodes, supporting unlimited size without an ArrayList.
  *

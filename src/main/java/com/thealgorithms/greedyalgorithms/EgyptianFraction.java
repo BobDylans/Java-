@@ -1,5 +1,8 @@
 package com.thealgorithms.greedyalgorithms;
 
+/* 埃及分数分解（贪心） */
+
+
 import java.util.ArrayList;
 import java.util.List;
 

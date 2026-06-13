@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 最长递增子序列（NlogN优化） */
+
+
 /**
  * Implementation of the Longest Increasing Subsequence (LIS) problem using
  * an O(n log n) dynamic programming solution enhanced with binary search.

@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 绝对最小值 */
+
+
 import java.util.Arrays;
 
 public final class AbsoluteMin {

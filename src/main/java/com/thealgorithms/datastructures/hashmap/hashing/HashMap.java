@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.hashmap.hashing;
 
+/* 哈希映射实现 */
+
+
 /**
  * A generic HashMap implementation that uses separate chaining with linked lists
  * to handle collisions. The class supports basic operations such as insert, delete,

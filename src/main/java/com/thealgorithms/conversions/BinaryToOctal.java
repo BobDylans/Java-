@@ -1,5 +1,8 @@
 package com.thealgorithms.conversions;
 
+/* 二进制转八进制 */
+
+
 public final class BinaryToOctal {
     private static final int BITS_PER_OCTAL_DIGIT = 3;
     private static final int BINARY_BASE = 2;

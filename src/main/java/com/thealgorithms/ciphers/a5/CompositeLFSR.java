@@ -1,5 +1,8 @@
 package com.thealgorithms.ciphers.a5;
 
+/* 复合线性反馈移位寄存器 */
+
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;

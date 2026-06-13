@@ -1,5 +1,8 @@
 package com.thealgorithms.physics;
 
+/* 抛体运动模拟 */
+
+
 /**
  *
  * This implementation calculates the flight path of a projectile launched from any INITIAL HEIGHT.

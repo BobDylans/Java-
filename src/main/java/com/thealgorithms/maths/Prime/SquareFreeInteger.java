@@ -1,15 +1,6 @@
 package com.thealgorithms.maths.Prime;
-/*
- * Java program for Square free integer
- * This class has a function which checks
- * if an integer has repeated prime factors
- * and will return false if the number has repeated prime factors.
- * true otherwise
- * Wikipedia: https://en.wikipedia.org/wiki/Square-free_integer
- *
- * Author: Akshay Dubey (https://github.com/itsAkshayDubey)
- *
- * */
+
+/* 无平方因子数判定 */
 
 import java.util.HashSet;
 import java.util.List;

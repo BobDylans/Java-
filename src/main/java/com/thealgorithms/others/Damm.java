@@ -1,5 +1,7 @@
 package com.thealgorithms.others;
 
+/* Damm校验码算法 */
+
 import java.util.Objects;
 
 /**

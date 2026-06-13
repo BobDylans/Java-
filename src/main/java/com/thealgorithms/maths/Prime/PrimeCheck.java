@@ -1,5 +1,8 @@
 package com.thealgorithms.maths.Prime;
 
+/* 素数判定 */
+
+
 import java.util.Scanner;
 
 public final class PrimeCheck {

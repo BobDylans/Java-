@@ -1,4 +1,8 @@
 package com.thealgorithms.stacks;
+
+/* 接雨水问题 */
+
+
 /**
  * Trapping Rainwater Problem
  * Given an array of non-negative integers representing the height of bars,

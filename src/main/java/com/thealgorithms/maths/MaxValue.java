@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 最大值 */
+
+
 public final class MaxValue {
     private MaxValue() {
     }

@@ -5,6 +5,13 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
+/*
+ * Isomorphic - 同构字符串判断
+ * 
+ * 判断两个字符串是否同构:一个字符串可以通过字符替换得到另一个字符串。
+ * 要求每个字符只能映射到唯一字符,且不同源字符不能映射到同一目标字符。
+ */
+
 /**
  * Utility class to check if two strings are isomorphic.
  *

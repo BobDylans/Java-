@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.trees;
 
+/* 二维点类 */
+
+
 import java.util.ArrayList;
 import java.util.List;
 

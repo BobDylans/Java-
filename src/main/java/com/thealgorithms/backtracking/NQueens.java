@@ -1,5 +1,8 @@
 package com.thealgorithms.backtracking;
 
+/* N皇后问题（回溯法） */
+
+
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;

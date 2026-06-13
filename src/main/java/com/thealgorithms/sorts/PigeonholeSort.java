@@ -1,5 +1,11 @@
 package com.thealgorithms.sorts;
 
+/* 鸽巢排序 */
+
+/* 鸽巢排序（Pigeonhole Sort）
+ * 类似桶排序，将元素分配到对应的"鸽巢"中
+ * 适合元素值范围较小的整数数组排序
+ */
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

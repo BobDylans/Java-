@@ -1,5 +1,8 @@
 package com.thealgorithms.maths.Prime;
 
+/* Miller-Rabin素性检验 */
+
+
 import java.util.Random;
 
 public final class MillerRabinPrimalityCheck {

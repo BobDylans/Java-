@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 大于/小于某数的最小2的幂 */
+
+
 /**
  * HigherLowerPowerOfTwo class has two methods to find the next higher and lower power of two.
  * <p>

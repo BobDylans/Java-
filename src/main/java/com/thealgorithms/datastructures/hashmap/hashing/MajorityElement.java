@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.hashmap.hashing;
 
+/* 多数元素查找 */
+
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;

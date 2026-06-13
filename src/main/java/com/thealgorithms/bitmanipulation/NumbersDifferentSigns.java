@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 判断两数符号是否不同 */
+
+
 /**
  * This class provides a method to determine whether two integers have
  * different signs. It utilizes the XOR operation on the two numbers:

@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 扩展欧几里得算法 */
+
+
 /**
  * In mathematics, the extended Euclidean algorithm is an extension to the
  * Euclidean algorithm, and computes, in addition to the greatest common divisor

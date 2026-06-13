@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 按位求最大公约数 */
+
+
 import java.math.BigInteger;
 
 /**

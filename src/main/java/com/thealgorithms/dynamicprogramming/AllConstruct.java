@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 所有构造方式（动态规划） */
+
+
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 数根计算 */
+
+
 /**
  * @author <a href="https://github.com/skmodi649">Suraj Kumar Modi</a>
  * You are given a number n. You need to find the digital root of n.

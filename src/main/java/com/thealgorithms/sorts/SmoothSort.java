@@ -1,5 +1,14 @@
 package com.thealgorithms.sorts;
 
+/* 平滑排序 */
+
+/* 平滑排序（Smooth Sort）
+ * Edsger W. Dijkstra于1981年提出的原地排序算法
+ * 是堆排序的变体，使用Leonardo数构建的森林堆
+ * 对接近有序的数组效率接近O(n)
+ */
+import java.util.Arrays;
+
 /**
  * Smooth Sort is an in-place, comparison-based sorting algorithm proposed by Edsger W. Dijkstra (1981).
  *

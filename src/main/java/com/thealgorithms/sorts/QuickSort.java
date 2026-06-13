@@ -1,5 +1,13 @@
 package com.thealgorithms.sorts;
 
+/* 快速排序 */
+
+/* 快速排序（Quick Sort）
+ * 分治排序算法，选择基准元素将数组分成两部分递归排序
+ * 使用随机化选择基准以避免最坏情况
+ */
+import java.util.Arrays;
+
 /**
  * QuickSort is a divide-and-conquer sorting algorithm.
  *

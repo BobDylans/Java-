@@ -1,4 +1,7 @@
 package com.thealgorithms.maths;
+
+/* 圆周率π近似计算 */
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;

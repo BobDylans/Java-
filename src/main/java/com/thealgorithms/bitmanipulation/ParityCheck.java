@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 奇偶校验 */
+
+
 /**
  * The ParityCheck class provides a method to check the parity of a given number.
  * <p>

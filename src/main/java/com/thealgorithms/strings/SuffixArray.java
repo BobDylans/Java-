@@ -1,5 +1,12 @@
 package com.thealgorithms.strings;
 
+/*
+ * 后缀数组（Suffix Array）构建算法。
+ * 后缀数组是一个整数数组，包含字符串所有后缀的起始位置，
+ * 按字典序排列后构成的下标数组。常用于字符串处理和算法竞赛。
+ * 参考资料：https://en.wikipedia.org/wiki/Suffix_array
+ */
+
 import java.util.Arrays;
 
 /**

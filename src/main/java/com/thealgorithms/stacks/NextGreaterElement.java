@@ -1,5 +1,8 @@
 package com.thealgorithms.stacks;
 
+/* 下一个更大元素 */
+
+
 import java.util.Stack;
 
 /**

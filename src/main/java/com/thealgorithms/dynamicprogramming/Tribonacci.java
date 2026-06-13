@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* Tribonacci数列 */
+
+
 /**
  * The {@code Tribonacci} class provides a method to compute the n-th number in the Tribonacci sequence.
  * N-th Tribonacci Number - https://leetcode.com/problems/n-th-tribonacci-number/description/

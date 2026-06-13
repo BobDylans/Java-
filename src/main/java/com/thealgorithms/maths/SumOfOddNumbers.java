@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 奇数和计算 */
+
+
 /**
  * This program calculates the sum of the first n odd numbers.
  *

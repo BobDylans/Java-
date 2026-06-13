@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 第二小/大值查找 */
+
+
 import java.util.function.BiPredicate;
 
 public final class SecondMinMax {

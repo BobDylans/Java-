@@ -1,5 +1,8 @@
 package com.thealgorithms.io;
 
+/* 缓冲读取器实现 */
+
+
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.io.InputStream;

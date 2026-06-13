@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.stacks;
 
+/* 基于数组的栈 */
+
+
 /**
  * Implements a generic stack using an array.
  *

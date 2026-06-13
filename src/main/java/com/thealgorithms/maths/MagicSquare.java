@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 幻方生成 */
+
+
 import java.util.Scanner;
 
 /*A magic square of order n is an arrangement of distinct n^2 integers,in a square, such that the n

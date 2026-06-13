@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 斐波那契数列（Java Streams） */
+
+
 import java.math.BigDecimal;
 import java.util.List;
 import java.util.Optional;

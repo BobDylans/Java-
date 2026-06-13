@@ -1,5 +1,8 @@
 package com.thealgorithms.searches;
 
+/* 跳跃搜索 */
+
+
 import com.thealgorithms.devutils.searches.SearchAlgorithm;
 
 /**

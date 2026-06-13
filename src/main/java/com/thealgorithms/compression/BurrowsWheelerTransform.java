@@ -1,5 +1,8 @@
 package com.thealgorithms.compression;
 
+/* Burrows-Wheeler变换（BWT） */
+
+
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;

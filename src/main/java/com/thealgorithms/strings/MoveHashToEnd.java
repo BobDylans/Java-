@@ -1,5 +1,13 @@
 package com.thealgorithms.strings;
 
+/*
+ * MoveHashToEnd - 将字符串中所有 '#' 字符移动到末尾
+ * 
+ * 该算法遍历字符串,先将所有非 '#' 字符收集到前方,
+ * 然后在剩余位置填充 '#',保持其他字符的原有顺序。
+ * 时间复杂度: O(n), 空间复杂度: O(n)
+ */
+
 /**
  * Moves all '#' characters to the end of the given string while preserving
  * the order of the other characters.

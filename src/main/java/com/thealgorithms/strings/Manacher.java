@@ -1,5 +1,12 @@
 package com.thealgorithms.strings;
 
+/*
+ * Manacher - 求解最长回文子串算法
+ * 
+ * 使用Manacher算法在O(n)时间复杂度内找出字符串中最长的回文子串。
+ * 通过预处理字符串(插入分隔符)避免奇偶讨论,并利用已计算的回文半径信息加速后续计算。
+ */
+
 /**
  * Wikipedia: https://en.wikipedia.org/wiki/Longest_palindromic_substring#Manacher's_algorithm
  */

@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 格雷码转换 */
+
+
 /**
  * Gray code is a binary numeral system where two successive values differ in only one bit.
  * This is a simple conversion between binary and Gray code.

@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 位旋转操作 */
+
+
 /**
  * Utility class for performing circular bit rotations on 32-bit integers.
  * Bit rotation is a circular shift operation where bits shifted out on one end

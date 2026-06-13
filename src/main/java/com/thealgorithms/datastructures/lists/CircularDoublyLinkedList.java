@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.lists;
 
+/* 循环双向链表 */
+
+
 /**
  * This class is a circular doubly linked list implementation. In a circular
  * doubly linked list,

@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 最大公约数 */
+
+
 /**
  *  This class provides methods to compute the Greatest Common Divisor (GCD) of two or more integers.
  *

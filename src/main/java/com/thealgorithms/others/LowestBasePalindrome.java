@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* 最小基的回文数 */
+
+
 import java.util.ArrayList;
 import java.util.List;
 

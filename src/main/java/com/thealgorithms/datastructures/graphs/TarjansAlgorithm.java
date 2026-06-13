@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.graphs;
 
+/* Tarjan强连通分量算法 */
+
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;

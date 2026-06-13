@@ -1,5 +1,8 @@
 package com.thealgorithms.searches;
 
+/* 深度优先搜索 */
+
+
 import com.thealgorithms.datastructures.Node;
 import java.util.ArrayList;
 import java.util.List;

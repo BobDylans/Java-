@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.graphs;
 
+/* Welsh-Powell图着色算法 */
+
+
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.HashSet;

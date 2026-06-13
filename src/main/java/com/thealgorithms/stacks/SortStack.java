@@ -1,5 +1,8 @@
 package com.thealgorithms.stacks;
 
+/* 栈排序 */
+
+
 import java.util.Stack;
 
 /**

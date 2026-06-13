@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* Frizzy数 */
+
+
 /**
  * @author <a href="https://github.com/siddhant2002">Siddhant Swarup Mallick</a>
  * Program description - To find the FrizzyNumber

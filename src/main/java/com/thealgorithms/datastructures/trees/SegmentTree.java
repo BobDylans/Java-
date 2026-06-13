@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.trees;
 
+/* 线段树 */
+
+
 public class SegmentTree {
 
     private int[] segTree;

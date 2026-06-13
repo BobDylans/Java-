@@ -1,11 +1,11 @@
 package com.thealgorithms.strings;
 
-/**
- * Given a string, moving several characters in front of the string to the end
- * of the string. For example, move the two characters'a' and 'b' in front of
- * the string "abcdef" to the end of the string, so that the original string
- * becomes the string "cdefab"
+/*
+ * 字符串旋转算法。
+ * 将字符串前n个字符移动到末尾，或对字符数组进行原地旋转。
+ * 例如："abcdef"旋转2位后变为"cdefab"。
  */
+
 public final class Rotation {
     private Rotation() {
     }

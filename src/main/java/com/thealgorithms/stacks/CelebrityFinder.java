@@ -1,5 +1,8 @@
 package com.thealgorithms.stacks;
 
+/* 名人问题（栈） */
+
+
 import java.util.Stack;
 
 /**

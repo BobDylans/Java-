@@ -6,6 +6,9 @@
 
 package com.thealgorithms.datastructures.trees;
 
+/* 线索二叉树 */
+
+
 import java.util.ArrayList;
 import java.util.List;
 

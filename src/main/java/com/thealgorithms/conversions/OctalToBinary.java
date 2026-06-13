@@ -1,5 +1,8 @@
 package com.thealgorithms.conversions;
 
+/* 八进制转二进制 */
+
+
 /**
  * A utility class to convert an octal (base-8) number into its binary (base-2) representation.
  *

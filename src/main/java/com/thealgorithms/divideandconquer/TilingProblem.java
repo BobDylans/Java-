@@ -1,5 +1,8 @@
 package com.thealgorithms.divideandconquer;
 
+/* 棋盘覆盖问题（分治法） */
+
+
 /**
  * This class provides a solution to the Tiling Problem using divide-and-conquer.
  * <p>

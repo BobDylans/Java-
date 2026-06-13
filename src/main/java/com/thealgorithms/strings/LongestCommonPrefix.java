@@ -2,6 +2,13 @@ package com.thealgorithms.strings;
 
 import java.util.Arrays;
 
+/*
+ * LongestCommonPrefix - 查找字符串数组的最长公共前缀
+ * 
+ * 通过对字符串数组进行字典序排序,比较首尾字符串来确定最长公共前缀。
+ * 排序后最长公共前缀必然是首尾字符串的公共部分。
+ */
+
 /**
  * Utility class for string operations.
  * <p>

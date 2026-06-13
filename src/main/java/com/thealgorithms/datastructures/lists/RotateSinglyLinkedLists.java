@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.lists;
 
+/* 旋转单链表 */
+
+
 /**
  * The RotateSinglyLinkedLists class provides a method to rotate a singly linked list
  * to the right by a specified number of positions.

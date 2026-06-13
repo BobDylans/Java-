@@ -1,5 +1,8 @@
 package com.thealgorithms.misc;
 
+/* 回文单链表判定 */
+
+
 import java.util.Stack;
 
 /**

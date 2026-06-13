@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.hashmap.hashing;
 
+/* 基于数组的泛型哈希映射 */
+
+
 import java.util.LinkedList;
 
 /**

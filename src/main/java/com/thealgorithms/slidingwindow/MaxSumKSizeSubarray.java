@@ -1,5 +1,8 @@
 package com.thealgorithms.slidingwindow;
 
+/* 大小为K的子数组最大和 */
+
+
 /**
  * The Sliding Window algorithm is used to find the maximum sum of a subarray
  * of a fixed size k within a given array.

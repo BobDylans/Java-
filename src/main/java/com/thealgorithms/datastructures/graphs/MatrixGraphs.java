@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.graphs;
 
+/* 矩阵表示的图 */
+
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;

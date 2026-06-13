@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* 密码生成器 */
+
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

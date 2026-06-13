@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.trees;
 
+/* 检查树是否对称 */
+
+
 import com.thealgorithms.datastructures.trees.BinaryTree.Node;
 
 /**

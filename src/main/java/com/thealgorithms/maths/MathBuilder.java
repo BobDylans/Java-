@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 数学构建器 */
+
+
 import java.text.DecimalFormat;
 import java.util.Random;
 import java.util.function.BiFunction;

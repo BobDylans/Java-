@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 自守数判定 */
+
+
 import java.math.BigInteger;
 /**
  * <a href="https://en.wikipedia.org/wiki/Automorphic_number">Automorphic Number</a>

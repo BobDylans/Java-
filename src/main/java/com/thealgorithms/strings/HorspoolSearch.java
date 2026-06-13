@@ -2,6 +2,13 @@ package com.thealgorithms.strings;
 
 import java.util.HashMap;
 
+/*
+ * HorspoolSearch - Horspool字符串搜索算法
+ * 
+ * 基于Boyer-Moore算法简化的字符串匹配算法,只使用"坏字符"启发式规则。
+ * 从模式串最后一个字符开始与文本匹配,失配时根据坏字符表移动模式串。
+ */
+
 /**
  * This class is not thread safe<br>
  * <br>

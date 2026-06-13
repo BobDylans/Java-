@@ -1,5 +1,8 @@
 package com.thealgorithms.backtracking;
 
+/* 全排列生成（回溯法） */
+
+
 import java.util.LinkedList;
 import java.util.List;
 

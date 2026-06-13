@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* 循环冗余校验算法 */
+
+
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;

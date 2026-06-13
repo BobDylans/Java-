@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 卷积运算 */
+
+
 /**
  * Class for linear convolution of two discrete signals
  *

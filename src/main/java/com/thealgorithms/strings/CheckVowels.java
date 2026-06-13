@@ -2,6 +2,13 @@ package com.thealgorithms.strings;
 
 import java.util.Set;
 
+/*
+ * CheckVowels - 元音字母检测工具
+ * 
+ * 检测字符串中是否包含元音字母(a,e,i,o,u)。
+ * 辅助用于字典排序等字符串处理功能。
+ */
+
 /**
  * Vowel Count is a system whereby character strings are placed in order based
  * on the position of the characters in the conventional ordering of an

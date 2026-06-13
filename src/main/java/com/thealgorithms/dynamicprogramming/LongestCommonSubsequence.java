@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 最长公共子序列 */
+
+
 /**
  * This class implements the Longest Common Subsequence (LCS) problem.
  * The LCS of two sequences is the longest sequence that appears in both

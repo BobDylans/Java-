@@ -1,5 +1,8 @@
 package com.thealgorithms.greedyalgorithms;
 
+/* 股票利润计算器（贪心） */
+
+
 /**
  * The StockProfitCalculator class provides a method to calculate the maximum profit
  * that can be made from a single buy and sell of one share of stock.

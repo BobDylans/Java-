@@ -1,5 +1,11 @@
 package com.thealgorithms.sorts;
 
+/* 希尔排序 */
+
+/* 希尔排序（Shell Sort）
+ * 插入排序的改进版本，使用递减的间隔进行分组插入排序
+ * 基于Knuth序列计算间隔
+ */
 public class ShellSort implements SortAlgorithm {
 
     /**

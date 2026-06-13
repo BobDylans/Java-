@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.trees;
 
+/* 通用树结构 */
+
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Scanner;

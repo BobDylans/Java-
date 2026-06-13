@@ -1,5 +1,8 @@
 package com.thealgorithms.sorts;
 
+/* 地精排序 */
+
+
 /**
  * Implementation of gnome sort
  *

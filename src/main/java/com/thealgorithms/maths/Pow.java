@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 幂运算 */
+
+
 /**
  * A utility class for computing exponentiation (power) of integers.
  * <p>

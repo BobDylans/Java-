@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 最右侧置位位索引 */
+
+
 /**
  * Utility class for bit manipulation operations.
  * This class provides methods to work with bitwise operations.

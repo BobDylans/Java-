@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.stacks;
 
+/* 反转栈 */
+
+
 import java.util.Stack;
 
 /**

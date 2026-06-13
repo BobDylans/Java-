@@ -1,11 +1,6 @@
 package com.thealgorithms.physics;
-/**
- * Implements the fundamental "SUVAT" equations for motion
- * under constant acceleration.
- *
- * @author [Priyanshu Kumar Singh](https://github.com/Priyanshu1303d)
- * @see <a href="https://en.wikipedia.org/wiki/Equations_of_motion#Uniform_acceleration">Wikipedia</a>
- */
+
+/* 运动学计算 */
 public final class Kinematics {
     private Kinematics() {
     }

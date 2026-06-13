@@ -1,5 +1,8 @@
 package com.thealgorithms.maths.Prime;
 
+/* 刘维尔λ函数 */
+
+
 /*
  * Java program for liouville lambda function
  * For any positive integer n, define λ(n) as the sum of the primitive nth roots of unity.

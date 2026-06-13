@@ -1,5 +1,8 @@
 package com.thealgorithms.stacks;
 
+/* 直方图最大矩形面积 */
+
+
 import java.util.Stack;
 
 /**

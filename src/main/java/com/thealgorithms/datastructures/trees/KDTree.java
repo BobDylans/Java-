@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.trees;
 
+/* K-D树（k维空间分割树） */
+
+
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Objects;

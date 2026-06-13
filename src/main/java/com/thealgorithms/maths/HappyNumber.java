@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 快乐数判定 */
+
+
 /**
  * A Happy Number is defined as a number which eventually reaches 1 when replaced
  * by the sum of the squares of each digit.

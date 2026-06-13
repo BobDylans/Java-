@@ -1,5 +1,11 @@
 package com.thealgorithms.sorts;
 
+/* 波浪排序 */
+
+/* 波浪排序（Wave Sort）
+ * 将数组排列成波浪形：arr[0] >= arr[1] <= arr[2] >= arr[3] <= ...
+ * 使得每个交替位置的元素都大于其相邻元素
+ */
 /**
  * The WaveSort algorithm sorts an array so that every alternate element is greater than its adjacent elements.
  * This implementation also provides a method to check if an array is wave sorted.

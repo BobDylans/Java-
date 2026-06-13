@@ -1,5 +1,8 @@
 package com.thealgorithms.ciphers;
 
+/* ElGamal加密算法 */
+
+
 import java.math.BigInteger;
 import java.security.SecureRandom;
 

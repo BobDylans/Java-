@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* 双指针算法 */
+
+
 /**
  * The two-pointer technique is a useful tool to utilize when searching for
  * pairs in a sorted array.

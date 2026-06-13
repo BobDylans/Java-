@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 绝对最大值 */
+
+
 public final class AbsoluteMax {
     private AbsoluteMax() {
     }

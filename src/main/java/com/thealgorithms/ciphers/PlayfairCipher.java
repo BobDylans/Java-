@@ -1,5 +1,8 @@
 package com.thealgorithms.ciphers;
 
+/* Playfair密码 */
+
+
 public class PlayfairCipher {
 
     private char[][] matrix;

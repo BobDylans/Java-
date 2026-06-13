@@ -8,6 +8,9 @@
 
 package com.thealgorithms.maths;
 
+/* 长除法 */
+
+
 public final class LongDivision {
     private LongDivision() {
     }

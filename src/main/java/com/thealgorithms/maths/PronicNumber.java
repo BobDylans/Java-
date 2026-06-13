@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 普洛尼克数判定 */
+
+
 /*
  * Java program for Pronic Number
  * Pronic Number: A number n is a pronic number if

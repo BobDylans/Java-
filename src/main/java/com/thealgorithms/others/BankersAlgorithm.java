@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* 银行家算法（死锁避免） */
+
+
 import java.util.Scanner;
 
 /**

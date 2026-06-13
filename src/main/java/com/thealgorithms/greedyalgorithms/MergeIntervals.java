@@ -1,5 +1,8 @@
 package com.thealgorithms.greedyalgorithms;
 
+/* 合并区间（贪心） */
+
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

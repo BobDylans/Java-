@@ -1,5 +1,8 @@
 package com.thealgorithms.physics;
 
+/* 二维弹性碰撞 */
+
+
 /**
  * 2D Elastic collision between two circular bodies
  * Based on principles of conservation of momentum and kinetic energy.

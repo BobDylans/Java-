@@ -1,5 +1,8 @@
 package com.thealgorithms.stacks;
 
+/* 括号匹配检查 */
+
+
 import java.util.Stack;
 
 /**

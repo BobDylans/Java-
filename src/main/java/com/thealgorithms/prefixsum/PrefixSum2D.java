@@ -1,5 +1,8 @@
 package com.thealgorithms.prefixsum;
 
+/* 二维前缀和 */
+
+
 /**
  * A class that implements the 2D Prefix Sum algorithm.
  *

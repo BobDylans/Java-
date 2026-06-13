@@ -1,5 +1,8 @@
 package com.thealgorithms.scheduling;
 
+/* 自适应调度算法 */
+
+
 import java.util.PriorityQueue;
 
 /**

@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.hashmap.hashing;
 
+/* 布谷鸟哈希映射 */
+
+
 import java.util.Objects;
 
 /**

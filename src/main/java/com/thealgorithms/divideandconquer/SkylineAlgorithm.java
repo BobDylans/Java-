@@ -1,5 +1,8 @@
 package com.thealgorithms.divideandconquer;
 
+/* 天际线问题（分治法） */
+
+
 import java.util.ArrayList;
 import java.util.Comparator;
 

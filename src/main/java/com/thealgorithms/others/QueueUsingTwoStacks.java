@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* 双栈实现队列 */
+
+
 import java.util.Stack;
 
 /**

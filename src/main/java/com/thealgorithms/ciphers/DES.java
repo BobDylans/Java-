@@ -1,5 +1,8 @@
 package com.thealgorithms.ciphers;
 
+/* DES数据加密标准 */
+
+
 /**
  * This class is build to demonstrate the application of the DES-algorithm
  * (https://en.wikipedia.org/wiki/Data_Encryption_Standard) on a plain English message. The supplied

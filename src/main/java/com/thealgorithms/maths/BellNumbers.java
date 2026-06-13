@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 贝尔数 */
+
+
 /**
  * The Bell numbers count the number of partitions of a set.
  * The n-th Bell number is the number of ways a set of n elements can be partitioned

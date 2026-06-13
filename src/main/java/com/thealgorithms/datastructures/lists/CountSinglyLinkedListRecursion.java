@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.lists;
 
+/* 递归统计单链表节点数 */
+
+
 /**
  * CountSinglyLinkedListRecursion extends a singly linked list to include a
  * recursive count method, which calculates the number of nodes in the list.

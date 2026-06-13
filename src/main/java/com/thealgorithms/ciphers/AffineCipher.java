@@ -1,5 +1,8 @@
 package com.thealgorithms.ciphers;
 
+/* 仿射密码 */
+
+
 /**
  * The AffineCipher class implements the Affine cipher, a type of monoalphabetic substitution cipher.
  * It encrypts and decrypts messages using a linear transformation defined by the formula:

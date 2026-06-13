@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.queues;
 
+/* 递归反转队列 */
+
+
 import java.util.Queue;
 
 /**

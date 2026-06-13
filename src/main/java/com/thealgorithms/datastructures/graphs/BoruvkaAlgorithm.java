@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.graphs;
 
+/* Boruvka最小生成树算法 */
+
+
 import java.util.ArrayList;
 import java.util.List;
 

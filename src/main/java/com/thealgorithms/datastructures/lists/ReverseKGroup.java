@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.lists;
 
+/* K个一组反转链表 */
+
+
 /**
  * The ReverseKGroup class provides functionality to reverse nodes in a
  * linked list in groups of k nodes.

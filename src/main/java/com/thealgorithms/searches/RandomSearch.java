@@ -1,5 +1,8 @@
 package com.thealgorithms.searches;
 
+/* 随机搜索 */
+
+
 import com.thealgorithms.devutils.searches.SearchAlgorithm;
 import java.util.HashSet;
 import java.util.Random;

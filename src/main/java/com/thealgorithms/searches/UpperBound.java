@@ -1,5 +1,8 @@
 package com.thealgorithms.searches;
 
+/* 上界查找（二分） */
+
+
 import com.thealgorithms.devutils.searches.SearchAlgorithm;
 
 /**

@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* 曼德勃罗特分形集 */
+
+
 import java.awt.Color;
 import java.awt.image.BufferedImage;
 import java.io.File;

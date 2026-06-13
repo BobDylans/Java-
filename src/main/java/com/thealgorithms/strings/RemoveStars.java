@@ -1,12 +1,9 @@
 package com.thealgorithms.strings;
 
-/**
- * Removes characters affected by '*' in a string.
- * Each '*' deletes the closest non-star character to its left.
- *
- * Example:
- * Input: leet**cod*e
- * Output: lecoe
+/*
+ * 删除星号及其左侧字符算法。
+ * 遍历字符串，每个'*'会删除其左侧最近的非星号字符。
+ * 例如："leet**cod*e" -> "lecoe"（第一个**删除两个e，*e删除c）
  */
 
 public final class RemoveStars {

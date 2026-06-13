@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* Smith-Waterman局部序列比对 */
+
+
 /**
  * Smith–Waterman algorithm for local sequence alignment.
  * Finds the highest scoring local alignment between substrings of two sequences.

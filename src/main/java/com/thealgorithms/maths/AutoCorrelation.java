@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 自相关函数计算 */
+
+
 /**
  * Class for linear auto-correlation of a discrete signal
  *

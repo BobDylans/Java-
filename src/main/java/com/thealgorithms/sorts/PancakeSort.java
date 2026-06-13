@@ -1,5 +1,13 @@
 package com.thealgorithms.sorts;
 
+/* 煎饼排序 */
+
+/* 煎饼排序（Pancake Sort）
+ * 每次通过一次翻转将最大元素翻到顶部，再翻到正确位置
+ * 只能使用翻转操作来排序
+ */
+import java.util.Arrays;
+
 /**
  * Implementation of pancake sort
  *

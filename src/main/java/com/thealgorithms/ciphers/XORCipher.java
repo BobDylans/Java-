@@ -1,5 +1,8 @@
 package com.thealgorithms.ciphers;
 
+/* XOR异或密码 */
+
+
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.util.HexFormat;

@@ -1,5 +1,8 @@
 package com.thealgorithms.puzzlesandgames;
 
+/* 单词搜索游戏（Boggle） */
+
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;

@@ -1,5 +1,8 @@
 package com.thealgorithms.ciphers;
 
+/* 简单替换密码 */
+
+
 import java.util.HashMap;
 import java.util.Map;
 

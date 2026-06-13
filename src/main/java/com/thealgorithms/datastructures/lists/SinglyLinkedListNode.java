@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.lists;
 
+/* 单链表节点 */
+
+
 /**
  * This class is the nodes of the SinglyLinked List. They consist of a value and
  * a pointer to the node after them.

@@ -1,5 +1,7 @@
 package com.thealgorithms.others;
 
+/* PageRank网页排名算法 */
+
 import java.util.Scanner;
 
 /**

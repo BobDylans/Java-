@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.graphs;
 
+/* 二分图检测（DFS） */
+
+
 import java.util.ArrayList;
 import java.util.Arrays;
 

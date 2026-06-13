@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 完全立方数判定 */
+
+
 /**
  * https://en.wikipedia.org/wiki/Cube_(algebra)
  */

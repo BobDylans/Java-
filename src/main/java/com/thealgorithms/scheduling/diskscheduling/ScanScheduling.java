@@ -1,5 +1,8 @@
 package com.thealgorithms.scheduling.diskscheduling;
 
+/* SCAN电梯磁盘调度 */
+
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

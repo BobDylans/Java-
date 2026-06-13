@@ -1,5 +1,7 @@
 package com.thealgorithms.others;
 
+/* Luhn信用卡校验算法 */
+
 import java.util.Arrays;
 import java.util.Objects;
 

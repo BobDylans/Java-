@@ -1,5 +1,8 @@
 package com.thealgorithms.scheduling;
 
+/* 非抢占式优先级调度 */
+
+
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.PriorityQueue;

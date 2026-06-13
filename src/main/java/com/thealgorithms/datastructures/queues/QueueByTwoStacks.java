@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.queues;
 
+/* 双栈实现队列 */
+
+
 import java.util.NoSuchElementException;
 import java.util.Stack;
 

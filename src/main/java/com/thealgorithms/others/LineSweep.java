@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* 扫描线算法 */
+
+
 import java.util.Arrays;
 import java.util.Comparator;
 

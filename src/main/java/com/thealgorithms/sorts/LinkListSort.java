@@ -1,5 +1,11 @@
 package com.thealgorithms.sorts;
 
+/* 链表排序 */
+
+/* 链表排序（Link List Sort）
+ * 对链表进行排序，支持三种排序方式：归并排序、插入排序、堆排序
+ * 将链表节点转换为数组进行排序再转回链表
+ */
 import java.util.Arrays;
 /**
  * @author <a href="https://github.com/siddhant2002">Siddhant Swarup Mallick</a>

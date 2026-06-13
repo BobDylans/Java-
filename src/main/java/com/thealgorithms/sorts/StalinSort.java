@@ -1,5 +1,11 @@
 package com.thealgorithms.sorts;
 
+/* 斯大林排序 */
+
+/* 斯大林排序（幽默命名）
+ * 单程排序，遍历数组只保留递增的元素
+ * 效率高但会丢弃乱序的元素
+ */
 public class StalinSort implements SortAlgorithm {
     @SuppressWarnings("unchecked")
     public <T extends Comparable<T>> T[] sort(T[] array) {

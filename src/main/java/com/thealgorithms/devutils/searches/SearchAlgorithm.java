@@ -1,5 +1,8 @@
 package com.thealgorithms.devutils.searches;
 
+/* 搜索算法接口 */
+
+
 /**
  * The common interface of most searching algorithms
  *

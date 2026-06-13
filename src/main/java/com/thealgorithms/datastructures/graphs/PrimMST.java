@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.graphs;
 
+/* Prim最小生成树算法 */
+
+
 /**
  * A Java program for Prim's Minimum Spanning Tree (MST) algorithm.
  * Adjacency matrix representation of the graph.

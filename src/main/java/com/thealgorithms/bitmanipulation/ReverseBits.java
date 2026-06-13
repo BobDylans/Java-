@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 二进制位翻转 */
+
+
 /**
  * This class provides a method to reverse the bits of a 32-bit integer.
  * Reversing the bits means that the least significant bit (LSB) becomes

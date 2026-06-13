@@ -1,5 +1,7 @@
 package com.thealgorithms.lineclipping.utils;
 
+/* 线段类 */
+
 import java.util.Objects;
 
 /**

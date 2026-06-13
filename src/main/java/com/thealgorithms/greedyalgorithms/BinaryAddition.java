@@ -1,5 +1,8 @@
 package com.thealgorithms.greedyalgorithms;
 
+/* 二进制加法（贪心） */
+
+
 import java.util.Collections;
 
 /**

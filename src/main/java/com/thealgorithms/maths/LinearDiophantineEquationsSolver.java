@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 线性丢番图方程求解 */
+
+
 import java.util.Objects;
 
 /**

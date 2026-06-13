@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 向上取整 */
+
+
 /**
  * Utility class to compute the ceiling of a given number.
  */

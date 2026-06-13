@@ -1,5 +1,8 @@
 package com.thealgorithms.ciphers.a5;
 
+/* A5流密码（GSM加密） */
+
+
 import java.util.BitSet;
 
 /**

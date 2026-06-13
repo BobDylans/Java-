@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.trees;
 
+/* 二维线段树 */
+
+
 /**
  * 2D Segment Tree (Tree of Trees) implementation.
  * This data structure supports point updates and submatrix sum queries

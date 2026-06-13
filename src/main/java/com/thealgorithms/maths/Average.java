@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 平均值计算 */
+
+
 import java.util.Arrays;
 import java.util.OptionalDouble;
 

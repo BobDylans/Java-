@@ -1,5 +1,7 @@
 package com.thealgorithms.datastructures;
 
+/* 节点接口 */
+
 import java.util.ArrayList;
 import java.util.List;
 

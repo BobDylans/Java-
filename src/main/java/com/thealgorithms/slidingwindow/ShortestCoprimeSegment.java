@@ -1,5 +1,8 @@
 package com.thealgorithms.slidingwindow;
 
+/* 最短互质子段 */
+
+
 import java.util.Arrays;
 import java.util.LinkedList;
 

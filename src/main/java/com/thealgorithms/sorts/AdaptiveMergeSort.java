@@ -1,5 +1,8 @@
 package com.thealgorithms.sorts;
 
+/* 自适应归并排序 */
+
+
 public class AdaptiveMergeSort implements SortAlgorithm {
     @SuppressWarnings("unchecked")
     public <T extends Comparable<T>> T[] sort(T[] array) {

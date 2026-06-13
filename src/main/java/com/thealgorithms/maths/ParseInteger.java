@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 整数解析 */
+
+
 public final class ParseInteger {
     private ParseInteger() {
     }

@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.lists;
 
+/* 龟兔赛跑算法（环检测） */
+
+
 public class TortoiseHareAlgo<E> {
     static final class Node<E> {
         Node<E> next;

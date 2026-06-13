@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 热尔曼素数和安全素数 */
+
+
 import com.thealgorithms.maths.Prime.PrimeCheck;
 
 /**

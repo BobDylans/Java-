@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 最优作业调度（动态规划） */
+
+
 /**
  * This class refers to the Optimal Job Scheduling problem with the following constrains:
  *  - precedence relation between the processes

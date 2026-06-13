@@ -1,5 +1,8 @@
 package com.thealgorithms.searches;
 
+/* 快速选择算法 */
+
+
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;

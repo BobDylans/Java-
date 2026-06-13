@@ -1,5 +1,12 @@
 package com.thealgorithms.sorts;
 
+/* 递归选择排序 */
+
+/* 递归选择排序（Selection Sort Recursive）
+ * 选择排序的递归实现，每次找到剩余部分的最小元素
+ */
+import java.util.Arrays;
+
 /**
  * Class that implements the Selection Sort algorithm using recursion.
  */

@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 递归求最大公约数 */
+
+
 /**
  * @author https://github.com/shellhub/
  */

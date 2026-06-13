@@ -1,5 +1,8 @@
 package com.thealgorithms.geometry;
 
+/* DDA直线绘制算法 */
+
+
 import java.awt.Point;
 import java.util.ArrayList;
 import java.util.List;

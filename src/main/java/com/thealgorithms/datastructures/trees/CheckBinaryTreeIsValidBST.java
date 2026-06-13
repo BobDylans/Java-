@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.trees;
 
+/* 验证二叉搜索树合法性 */
+
+
 /**
  * This code recursively validates whether given Binary Search Tree (BST) is balanced or not.
  * Trees with only distinct values are supported.

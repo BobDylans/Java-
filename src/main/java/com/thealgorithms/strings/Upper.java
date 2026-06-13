@@ -1,5 +1,10 @@
 package com.thealgorithms.strings;
 
+/*
+ * 字符串转大写工具类。
+ * 将输入字符串中的所有小写字母转换为大写字母。
+ */
+
 public final class Upper {
     private Upper() {
     }

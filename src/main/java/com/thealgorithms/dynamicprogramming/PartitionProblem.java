@@ -1,4 +1,7 @@
 package com.thealgorithms.dynamicprogramming;
+
+/* 分割问题（动态规划） */
+
 import java.util.Arrays;
 /**
  * @author Md Asif Joardar

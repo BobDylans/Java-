@@ -1,5 +1,14 @@
 package com.thealgorithms.strings;
 
+/*
+ * Lower - 字符串小写转换工具
+ * 
+ * 将字符串中的所有大写英文字符转换为小写,不处理非字母字符。
+ */
+
+/**
+ * @author Unknown
+ */
 public final class Lower {
     private Lower() {
     }

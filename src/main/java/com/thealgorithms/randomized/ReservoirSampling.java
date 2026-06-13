@@ -1,5 +1,8 @@
 package com.thealgorithms.randomized;
 
+/* 蓄水池抽样算法 */
+
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;

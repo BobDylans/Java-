@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 布尔代数逻辑门模拟 */
+
+
 import java.util.List;
 
 /**

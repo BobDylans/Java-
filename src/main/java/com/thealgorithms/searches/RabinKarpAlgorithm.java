@@ -1,5 +1,8 @@
 package com.thealgorithms.searches;
 
+/* Rabin-Karp字符串搜索 */
+
+
 // Implementation of Rabin Karp Algorithm
 
 public final class RabinKarpAlgorithm {

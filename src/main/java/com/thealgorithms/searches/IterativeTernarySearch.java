@@ -1,5 +1,8 @@
 package com.thealgorithms.searches;
 
+/* 迭代式三分查找 */
+
+
 import com.thealgorithms.devutils.searches.SearchAlgorithm;
 
 /**

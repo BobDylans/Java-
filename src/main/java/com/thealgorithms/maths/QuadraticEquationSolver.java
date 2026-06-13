@@ -1,5 +1,7 @@
 package com.thealgorithms.maths;
 
+/* represents */
+
 /**
  * This class represents a complex number which has real and imaginary part
  */

@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.caches;
 
+/* 先进先出缓存 */
+
+
 import java.util.Iterator;
 import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;

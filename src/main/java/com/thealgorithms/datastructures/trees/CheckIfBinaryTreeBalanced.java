@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.trees;
 
+/* 检查二叉树是否平衡 */
+
+
 import java.util.HashMap;
 import java.util.Stack;
 

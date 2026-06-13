@@ -1,5 +1,8 @@
 package com.thealgorithms.ciphers;
 
+/* 乘积密码 */
+
+
 import java.util.Scanner;
 
 final class ProductCipher {

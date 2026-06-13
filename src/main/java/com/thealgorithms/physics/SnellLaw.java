@@ -1,5 +1,8 @@
 package com.thealgorithms.physics;
 
+/* 斯涅尔折射定律 */
+
+
 /**
  * Calculates refraction angle using Snell's Law:
  * n1 * sin(theta1) = n2 * sin(theta2)

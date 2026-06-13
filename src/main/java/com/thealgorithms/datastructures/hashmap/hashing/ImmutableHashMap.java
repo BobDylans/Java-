@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.hashmap.hashing;
 
+/* 不可变哈希映射 */
+
+
 /**
  * Immutable HashMap implementation using separate chaining.
  *

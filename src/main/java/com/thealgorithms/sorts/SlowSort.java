@@ -1,5 +1,13 @@
 package com.thealgorithms.sorts;
 
+/* 慢速排序 */
+
+/* 慢速排序（Slow Sort）
+ * 一种递归但幽默地低效的排序算法
+ * 不断分治并交换元素，时间复杂度较高
+ */
+import java.util.Arrays;
+
 /**
  * @author Amir Hassan (https://github.com/ahsNT)
  * @see SortAlgorithm

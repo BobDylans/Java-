@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.lists;
 
+/* 合并有序单链表 */
+
+
 /**
  * Utility class for merging two sorted singly linked lists.
  *

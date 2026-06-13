@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 位掩码分配问题（动态规划） */
+
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

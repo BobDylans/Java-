@@ -1,5 +1,7 @@
 package com.thealgorithms.datastructures.disjointsetunion;
 
+/* 节点接口 */
+
 public class Node<T> {
 
     /**

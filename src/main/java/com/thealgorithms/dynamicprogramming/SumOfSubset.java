@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 子集和判定 */
+
+
 /**
  * A utility class that contains the Sum of Subset problem solution using
  * recursion.

@@ -3,6 +3,13 @@ package com.thealgorithms.strings;
 import java.util.HashSet;
 import java.util.Set;
 
+/*
+ * Isogram - 同构词/等值字母词判断
+ * 
+ * 同构词是指没有任何字母出现超过一次的单词(也称为异形词或非模式词)。
+ * 每个字符只出现一次,如"uncopyrightable"、"dermatoglyphics"等。
+ */
+
 /**
  * An isogram (also called heterogram or nonpattern word) is a word in which no
  * letter of the word occurs more than once. Each character appears exactly

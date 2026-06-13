@@ -1,5 +1,8 @@
 package com.thealgorithms.prefixsum;
 
+/* 前缀和 */
+
+
 /**
  * A class that implements the Prefix Sum algorithm.
  *

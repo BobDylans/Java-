@@ -3,6 +3,14 @@ package com.thealgorithms.strings;
 import java.util.HashMap;
 import java.util.Map;
 
+/*
+ * LongestNonRepetitiveSubstring - 查找最长无重复字符子串
+ * 
+ * 使用滑动窗口和HashMap记录字符最后出现的位置,
+ * 当遇到重复字符时调整窗口起始位置。
+ * 时间复杂度: O(n), 空间复杂度: O(min(n,m))
+ */
+
 /**
  * Class for finding the length of the longest substring without repeating characters.
  */

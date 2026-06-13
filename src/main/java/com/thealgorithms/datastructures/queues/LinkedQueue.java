@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.queues;
 
+/* 链表队列 */
+
+
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 

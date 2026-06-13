@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 第N个丑数 */
+
+
 import static java.util.Collections.singletonList;
 
 import java.util.ArrayList;

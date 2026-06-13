@@ -1,5 +1,7 @@
 package com.thealgorithms.others;
 
+/* Dijkstra最短路径算法 */
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.NavigableSet;

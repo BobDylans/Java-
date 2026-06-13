@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 三项式三角形 */
+
+
 /**
  * The trinomial triangle is a variation of Pascal’s triangle. The difference
  * between the two is that an entry in the trinomial triangle is the sum of the

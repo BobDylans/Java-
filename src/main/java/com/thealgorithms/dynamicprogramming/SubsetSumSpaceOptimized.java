@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 子集和问题（空间优化） */
+
+
 /**
  * Utility class for solving the Subset Sum problem using a space-optimized dynamic programming approach.
  *

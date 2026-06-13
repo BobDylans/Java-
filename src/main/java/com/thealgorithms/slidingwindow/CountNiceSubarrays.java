@@ -1,5 +1,8 @@
 package com.thealgorithms.slidingwindow;
 
+/* 统计优美子数组（滑动窗口） */
+
+
 /**
  * Counts the number of "nice subarrays".
  * A nice subarray is a contiguous subarray that contains exactly k odd numbers.

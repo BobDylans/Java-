@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* 32位循环冗余校验 */
+
+
 import java.util.BitSet;
 
 /**

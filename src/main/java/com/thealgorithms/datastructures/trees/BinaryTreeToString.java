@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.trees;
 
+/* 二叉树转字符串 */
+
+
 /**
  * Leetcode 606: Construct String from Binary Tree:
  * https://leetcode.com/problems/construct-string-from-binary-tree/

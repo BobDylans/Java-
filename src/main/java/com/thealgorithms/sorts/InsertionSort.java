@@ -1,5 +1,13 @@
 package com.thealgorithms.sorts;
 
+/* 插入排序 */
+
+/* 插入排序（Insertion Sort）
+ * 将元素逐一插入已排序部分，找到正确位置放下
+ * 对接近有序的数组效率很高，最好情况O(n)
+ */
+import java.util.Arrays;
+
 /**
  * Generic Insertion Sort algorithm.
  *

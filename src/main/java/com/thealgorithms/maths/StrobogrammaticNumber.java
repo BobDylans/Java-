@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 旋转对称数判定 */
+
+
 import java.util.HashMap;
 import java.util.Map;
 

@@ -1,5 +1,11 @@
 package com.thealgorithms.sorts;
 
+/* 拓扑排序 */
+
+/* 拓扑排序（Topological Sort）
+ * 对有向无环图（DAG）进行线性排序，使得所有有向边都从前往后排列
+ * 基于深度优先搜索（DFS）实现
+ */
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;

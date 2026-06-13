@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* 极小化极大算法 */
+
+
 import java.util.Arrays;
 import java.util.Random;
 

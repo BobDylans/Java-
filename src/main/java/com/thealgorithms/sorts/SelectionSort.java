@@ -1,5 +1,11 @@
 package com.thealgorithms.sorts;
 
+/* 选择排序 */
+
+/* 选择排序（Selection Sort）
+ * 每次从未排序部分选择最小（或最大）元素放到已排序部分
+ * 时间复杂度O(n²)，空间复杂度O(1)
+ */
 public class SelectionSort implements SortAlgorithm {
     /**
      * Generic Selection Sort algorithm.

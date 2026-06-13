@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* 康威生命游戏 */
+
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

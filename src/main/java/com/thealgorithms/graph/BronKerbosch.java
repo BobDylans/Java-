@@ -1,5 +1,8 @@
 package com.thealgorithms.graph;
 
+/* Bron-Kerbosch最大团算法 */
+
+
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;

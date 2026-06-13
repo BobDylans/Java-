@@ -1,5 +1,8 @@
 package com.thealgorithms.greedyalgorithms;
 
+/* 活动选择问题（贪心） */
+
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;

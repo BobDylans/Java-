@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 背包问题（动态规划） */
+
+
 import java.util.Arrays;
 
 /**

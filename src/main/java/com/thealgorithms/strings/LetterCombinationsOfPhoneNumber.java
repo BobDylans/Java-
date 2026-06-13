@@ -4,6 +4,16 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+/*
+ * LetterCombinationsOfPhoneNumber - 电话号码字母组合
+ * 
+ * 根据手机键盘上的数字与字母映射,生成数字序列对应的所有可能的字母组合。
+ * 使用递归/回溯法枚举所有组合。
+ */
+
+/**
+ * @author Unknown
+ */
 public final class LetterCombinationsOfPhoneNumber {
 
     private static final char EMPTY = '\0';

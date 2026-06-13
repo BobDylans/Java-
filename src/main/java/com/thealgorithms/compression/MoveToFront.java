@@ -1,5 +1,8 @@
 package com.thealgorithms.compression;
 
+/* 移至前端的变换（MTF） */
+
+
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.LinkedList;

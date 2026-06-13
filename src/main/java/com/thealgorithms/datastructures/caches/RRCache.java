@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.caches;
 
+/* 随机替换缓存 */
+
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;

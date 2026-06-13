@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 2的幂取模运算 */
+
+
 /**
  * This class provides a method to compute the remainder
  * of a number when divided by a power of two (2^n)

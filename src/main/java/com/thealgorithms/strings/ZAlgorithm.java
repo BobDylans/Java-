@@ -1,5 +1,8 @@
 /*
- * https://en.wikipedia.org/wiki/Z-algorithm
+ * Z算法（Z-Algorithm），用于字符串匹配。
+ * 构建Z数组，记录每个位置与字符串前缀的最长公共前缀长度。
+ * 可在 O(n+m) 时间内完成模式匹配。
+ * 参考资料：https://en.wikipedia.org/wiki/Z-algorithm
  */
 package com.thealgorithms.strings;
 

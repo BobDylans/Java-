@@ -1,5 +1,14 @@
 package com.thealgorithms.strings;
 
+/*
+ * CharactersSame - 判断字符串所有字符是否相同
+ * 
+ * 检查字符串中所有字符是否完全相同,空字符串视为通过此检查。
+ */
+
+/**
+ * @author Unknown
+ */
 public final class CharactersSame {
     private CharactersSame() {
     }

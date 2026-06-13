@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.heaps;
 
+/* 空堆异常类 */
+
+
 /**
  * @author Nicolas Renard Exception to be thrown if the getElement method is
  * used on an empty heap.

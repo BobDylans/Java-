@@ -1,5 +1,7 @@
 package com.thealgorithms.datastructures.graphs;
 
+/* Adjacency List Graph */
+
 import java.util.ArrayList;
 
 class AdjacencyListGraph<E extends Comparable<E>> {

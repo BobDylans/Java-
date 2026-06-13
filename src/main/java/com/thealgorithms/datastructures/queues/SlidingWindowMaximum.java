@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.queues;
 
+/* 滑动窗口最大值 */
+
+
 import java.util.Deque;
 import java.util.LinkedList;
 

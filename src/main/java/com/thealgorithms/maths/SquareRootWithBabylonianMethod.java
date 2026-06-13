@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 巴比伦方法求平方根 */
+
+
 public final class SquareRootWithBabylonianMethod {
     private SquareRootWithBabylonianMethod() {
     }

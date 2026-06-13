@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 帕斯卡三角形生成 */
+
+
 public final class PascalTriangle {
     private PascalTriangle() {
     }

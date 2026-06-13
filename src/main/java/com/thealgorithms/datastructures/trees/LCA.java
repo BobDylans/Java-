@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.trees;
 
+/* 最近公共祖先查找 */
+
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

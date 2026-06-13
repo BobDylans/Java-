@@ -3,6 +3,14 @@ package com.thealgorithms.strings;
 import java.util.Arrays;
 import java.util.HashMap;
 
+/*
+ * Anagrams - 变位词/同字母异序词判断
+ * 
+ * 判断两个字符串是否为变位词,即包含相同字母且各字母出现次数相同,
+ * 只是排列顺序不同。如"anagram"和"nag a ram"。
+ * 提供多种实现方式:排序比较、字符计数、HashMap等。
+ */
+
 /**
  * An anagram is a word or phrase formed by rearranging the letters of a different word or phrase,
  * typically using all the original letters exactly once.

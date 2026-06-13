@@ -1,5 +1,8 @@
 package com.thealgorithms.maths.Prime;
 
+/* 莫比乌斯函数μ(n) */
+
+
 /*
  * Java program for mobius function
  * For any positive integer n, define μ(n) as the sum of the primitive nth roots of unity.

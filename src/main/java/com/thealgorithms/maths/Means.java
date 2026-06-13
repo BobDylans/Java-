@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 各种均值计算 */
+
+
 import java.util.stream.StreamSupport;
 import org.apache.commons.collections4.IterableUtils;
 

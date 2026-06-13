@@ -1,5 +1,8 @@
 package com.thealgorithms.greedyalgorithms;
 
+/* K中心问题（贪心） */
+
+
 import java.util.Arrays;
 
 /**

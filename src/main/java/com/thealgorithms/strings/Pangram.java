@@ -1,10 +1,13 @@
 package com.thealgorithms.strings;
 
-import java.util.HashSet;
-
-/**
- * Wikipedia: https://en.wikipedia.org/wiki/Pangram
+/*
+ * 全字母句（Pangram）检测算法。
+ * 检测字符串是否包含英文字母表中的所有26个字母。
+ * 全字母句是包含每个字母至少一次的句子。
+ * 参考资料：https://en.wikipedia.org/wiki/Pangram
  */
+
+import java.util.HashSet;
 public final class Pangram {
     private Pangram() {
     }

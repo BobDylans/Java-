@@ -1,5 +1,8 @@
 package com.thealgorithms.misc;
 
+/* 有序数组中查找范围 */
+
+
 /**
  * Utility class for operations to find the range of occurrences of a key
  * in a sorted (non-decreasing) array, and to count elements less than or equal to a given key.

@@ -1,5 +1,8 @@
 package com.thealgorithms.sorts;
 
+/* 猴子排序 */
+
+
 import java.util.Random;
 
 /**

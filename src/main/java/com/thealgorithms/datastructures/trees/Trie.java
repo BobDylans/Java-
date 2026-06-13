@@ -1,5 +1,7 @@
 package com.thealgorithms.datastructures.trees;
 
+/* Trie Node */
+
 import java.util.HashMap;
 
 /**

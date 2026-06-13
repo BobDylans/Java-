@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.hashmap.hashing;
 
+/* 线性探测哈希映射 */
+
+
 import java.util.ArrayList;
 
 /**

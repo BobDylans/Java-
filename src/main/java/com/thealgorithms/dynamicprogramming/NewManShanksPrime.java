@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* Newman-Shanks素数 */
+
+
 /**
  * The NewManShanksPrime class provides a method to determine whether the nth
  * New Man Shanks prime matches an expected answer.

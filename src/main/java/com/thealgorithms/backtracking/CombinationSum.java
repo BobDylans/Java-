@@ -1,5 +1,8 @@
 package com.thealgorithms.backtracking;
 
+/* 组合总和问题（回溯法） */
+
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

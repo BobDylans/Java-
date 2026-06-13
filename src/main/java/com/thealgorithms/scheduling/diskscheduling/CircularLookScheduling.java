@@ -1,5 +1,8 @@
 package com.thealgorithms.scheduling.diskscheduling;
 
+/* 循环LOOK磁盘调度 */
+
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

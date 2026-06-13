@@ -1,5 +1,8 @@
 package com.thealgorithms.sorts;
 
+/* 闪电排序 */
+
+
 /**
  * Implementation of Flash Sort algorithm that implements the SortAlgorithm interface.
  *

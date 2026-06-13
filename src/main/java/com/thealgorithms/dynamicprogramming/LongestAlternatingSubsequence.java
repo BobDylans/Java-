@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 最长交替子序列 */
+
+
 /**
  * Class for finding the length of the longest alternating subsequence in an array.
  *

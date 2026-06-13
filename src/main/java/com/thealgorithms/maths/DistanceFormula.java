@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 距离公式 */
+
+
 public final class DistanceFormula {
     private DistanceFormula() {
     }

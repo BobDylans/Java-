@@ -1,5 +1,8 @@
 package com.thealgorithms.physics;
 
+/* 万有引力计算 */
+
+
 /**
  * Implements Newton's Law of Universal Gravitation.
  * Provides simple static methods to calculate gravitational force and circular orbit velocity.

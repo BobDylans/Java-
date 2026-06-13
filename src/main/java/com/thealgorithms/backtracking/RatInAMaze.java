@@ -1,5 +1,8 @@
 package com.thealgorithms.backtracking;
 
+/* 迷宫中的老鼠（回溯法） */
+
+
 import java.util.ArrayList;
 import java.util.List;
 

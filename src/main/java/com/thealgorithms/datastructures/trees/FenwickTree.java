@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.trees;
 
+/* 树状数组（Fenwick树） */
+
+
 public class FenwickTree {
 
     private int n;

@@ -1,5 +1,8 @@
 package com.thealgorithms.greedyalgorithms;
 
+/* 带宽分配（贪心） */
+
+
 import java.util.Arrays;
 
 /**

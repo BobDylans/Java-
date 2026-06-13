@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 盈数判定 */
+
+
 /**
  * In number theory, an abundant number or excessive number is a positive integer for which
  * the sum of its proper divisors is greater than the number.

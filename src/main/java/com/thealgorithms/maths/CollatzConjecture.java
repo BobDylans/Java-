@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 考拉兹猜想（3n+1问题） */
+
+
 import java.util.ArrayList;
 import java.util.List;
 

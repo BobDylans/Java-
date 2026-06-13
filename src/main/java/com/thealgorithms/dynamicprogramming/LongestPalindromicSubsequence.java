@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 最长回文子序列 */
+
+
 /**
  * Longest Palindromic Subsequence algorithm.
  * A palindromic subsequence is a subsequence that reads the same forwards and backwards.

@@ -1,5 +1,8 @@
 package com.thealgorithms.randomized;
 
+/* 随机化矩阵乘法验证 */
+
+
 import java.util.Random;
 
 public final class RandomizedMatrixMultiplicationVerification {

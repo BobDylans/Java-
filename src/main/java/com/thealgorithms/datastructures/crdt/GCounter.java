@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.crdt;
 
+/* G计数器（CRDT） */
+
+
 import java.util.HashMap;
 import java.util.Map;
 

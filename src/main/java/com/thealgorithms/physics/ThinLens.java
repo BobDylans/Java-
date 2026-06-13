@@ -1,5 +1,8 @@
 package com.thealgorithms.physics;
 
+/* 薄透镜成像计算 */
+
+
 /**
  * Implements the Thin Lens Formula used in ray optics:
  *

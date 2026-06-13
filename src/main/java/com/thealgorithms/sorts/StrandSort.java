@@ -1,5 +1,11 @@
 package com.thealgorithms.sorts;
 
+/* Strand排序 */
+
+/* 链式排序（Strand Sort）
+ * 从输入列表中提取有序子链，然后合并这些有序子链
+ * 递归地处理剩余元素并归并结果
+ */
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

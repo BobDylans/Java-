@@ -1,5 +1,8 @@
 package com.thealgorithms.conversions;
 
+/* 十六进制转二进制 */
+
+
 /**
  * Utility class for converting hexadecimal numbers to binary representation.
  * <p>

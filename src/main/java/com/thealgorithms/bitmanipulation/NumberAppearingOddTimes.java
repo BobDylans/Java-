@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 出现奇数次的数字 */
+
+
 /**
  * This class provides a method to find the element that appears an
  * odd number of times in an array. All other elements in the array

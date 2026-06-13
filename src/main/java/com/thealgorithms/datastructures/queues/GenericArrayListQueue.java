@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.queues;
 
+/* 基于ArrayList的泛型队列 */
+
+
 import java.util.ArrayList;
 import java.util.List;
 

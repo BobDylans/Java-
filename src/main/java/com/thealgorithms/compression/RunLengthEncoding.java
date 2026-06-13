@@ -1,5 +1,8 @@
 package com.thealgorithms.compression;
 
+/* 游程编码（RLE） */
+
+
 /**
  * An implementation of the Run-Length Encoding (RLE) algorithm.
  *

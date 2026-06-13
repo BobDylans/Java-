@@ -1,5 +1,7 @@
 package com.thealgorithms.others;
 
+/* Verhoeff校验码算法 */
+
 import java.util.Objects;
 
 /**

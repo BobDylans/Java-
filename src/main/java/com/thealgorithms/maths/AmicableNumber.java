@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 亲和数判定 */
+
+
 import java.util.LinkedHashSet;
 import java.util.Set;
 import org.apache.commons.lang3.tuple.Pair;

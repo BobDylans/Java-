@@ -1,5 +1,8 @@
 package com.thealgorithms.stacks;
 
+/* 双队列实现栈 */
+
+
 import java.util.LinkedList;
 import java.util.NoSuchElementException;
 import java.util.Queue;

@@ -1,5 +1,8 @@
 package com.thealgorithms.lineclipping;
 
+/* Liang-Barsky线段裁剪算法 */
+
+
 import com.thealgorithms.lineclipping.utils.Line;
 import com.thealgorithms.lineclipping.utils.Point;
 

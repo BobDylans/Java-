@@ -1,19 +1,6 @@
 package com.thealgorithms.slidingwindow;
-/**
- * The Sliding Window algorithm is used to find the minimum sum of a subarray
- * of a fixed size k within a given array.
- *
- * <p>
- * Worst-case performance O(n)
- * Best-case performance O(n)
- * Average performance O(n)
- * Worst-case space complexity O(1)
- *
- * This class provides a static method to find the minimum sum of a subarray
- * with a specified length k.
- *
- * @author Rashi Dashore (https://github.com/rashi07dashore)
- */
+
+/* 大小为K的子数组最小和 */
 public final class MinSumKSizeSubarray {
 
     // Prevent instantiation

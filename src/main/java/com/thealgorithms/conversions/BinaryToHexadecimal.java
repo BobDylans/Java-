@@ -1,5 +1,8 @@
 package com.thealgorithms.conversions;
 
+/* 二进制转十六进制 */
+
+
 import java.util.HashMap;
 import java.util.Map;
 

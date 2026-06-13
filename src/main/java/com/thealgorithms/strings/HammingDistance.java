@@ -1,5 +1,8 @@
 package com.thealgorithms.strings;
 
+/* 汉明距离计算（二进制） */
+
+
 /**
  * Class for calculating the Hamming distance between two strings of equal length.
  * <p>

@@ -1,5 +1,13 @@
 package com.thealgorithms.sorts;
 
+/* 臭皮匠排序 */
+
+/* Stooge排序（幽默命名）
+ * 一种递归但非常低效的排序算法，时间复杂度为O(n^(log3/log1.5))
+ * 不断将数组分成三部分并递归交换排序
+ */
+import java.util.Arrays;
+
 /**
  * @author Amir Hassan (https://github.com/ahsNT)
  * @see SortAlgorithm

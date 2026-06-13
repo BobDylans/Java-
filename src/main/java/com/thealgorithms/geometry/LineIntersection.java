@@ -1,5 +1,8 @@
 package com.thealgorithms.geometry;
 
+/* 线段相交检测 */
+
+
 import java.awt.geom.Point2D;
 import java.util.Optional;
 

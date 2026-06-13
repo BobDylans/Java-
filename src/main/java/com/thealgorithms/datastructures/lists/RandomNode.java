@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.lists;
 
+/* 链表随机节点 */
+
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;

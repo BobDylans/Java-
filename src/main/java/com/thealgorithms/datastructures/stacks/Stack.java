@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.stacks;
 
+/* 栈接口定义 */
+
+
 /**
  * A generic interface for Stack data structures.
  *

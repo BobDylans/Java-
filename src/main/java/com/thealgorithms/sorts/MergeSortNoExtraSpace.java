@@ -1,5 +1,11 @@
 package com.thealgorithms.sorts;
 
+/* 原地归并排序（无额外空间） */
+
+/* 原地归并排序（Merge Sort No Extra Space）
+ * 不使用额外空间的归并排序变体
+ * 通过数学技巧（编码解码）在原地合并两个有序子数组
+ */
 import java.util.Arrays;
 
 /**

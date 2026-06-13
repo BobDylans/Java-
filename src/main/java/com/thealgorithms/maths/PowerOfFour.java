@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 4的幂判定 */
+
+
 /**
  * Utility class for checking if a number is a power of four.
  * A power of four is a number that can be expressed as 4^n where n is a non-negative integer.

@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* Kadane算法（最大子数组和） */
+
+
 /**
  * This class implements Kadane's Algorithm to find the maximum subarray sum
  * within a given array of integers. The algorithm efficiently computes the maximum

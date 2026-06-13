@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 字符串缩写匹配（动态规划） */
+
+
 /**
  * A class that provides a solution to the abbreviation problem.
  *

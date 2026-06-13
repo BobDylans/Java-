@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* Mo's算法（离线查询） */
+
+
 import java.util.Arrays;
 import java.util.Comparator;
 

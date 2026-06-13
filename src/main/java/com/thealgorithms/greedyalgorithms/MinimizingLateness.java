@@ -1,5 +1,8 @@
 package com.thealgorithms.greedyalgorithms;
 
+/* 最小化延迟调度（贪心） */
+
+
 import java.util.Arrays;
 
 public final class MinimizingLateness {

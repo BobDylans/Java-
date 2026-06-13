@@ -1,5 +1,8 @@
 package com.thealgorithms.divideandconquer;
 
+/* 最近点对（分治法） */
+
+
 /**
  * For a set of points in a coordinates system (10000 maximum), ClosestPair
  * class calculates the two closest points.

@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.dynamicarray;
 
+/* 动态数组实现 */
+
+
 import java.util.Arrays;
 import java.util.ConcurrentModificationException;
 import java.util.Iterator;

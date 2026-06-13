@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.trees;
 
+/* 判断两棵树是否相同 */
+
+
 import java.util.ArrayDeque;
 import java.util.Deque;
 

@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 斐波那契数列（黄金分割比） */
+
+
 /**
  * This class provides methods for calculating Fibonacci numbers using Binet's formula.
  * Binet's formula is based on the golden ratio and allows computing Fibonacci numbers efficiently.

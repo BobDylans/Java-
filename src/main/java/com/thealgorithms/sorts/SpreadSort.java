@@ -1,4 +1,11 @@
 package com.thealgorithms.sorts;
+
+/* 伸展排序 */
+
+/* 扩散排序（Spread Sort）
+ * 高效的桶排序变体，将元素分发到桶中并递归排序各桶
+ * 适用于大规模数据集
+ */
 import java.util.Arrays;
 
 /**

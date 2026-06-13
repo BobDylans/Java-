@@ -1,5 +1,8 @@
 package com.thealgorithms.geometry;
 
+/* Bentley-Ottmann线段交点算法 */
+
+
 import java.awt.geom.Point2D;
 import java.util.ArrayList;
 import java.util.Comparator;

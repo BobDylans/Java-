@@ -1,5 +1,8 @@
 package com.thealgorithms.prefixsum;
 
+/* 区间和查询 */
+
+
 /**
  * Implements an algorithm to efficiently compute the sum of elements
  * between any two indices in an integer array using the Prefix Sum technique.

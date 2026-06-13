@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.stacks;
 
+/* 基于链表的栈 */
+
+
 import java.util.NoSuchElementException;
 
 /**

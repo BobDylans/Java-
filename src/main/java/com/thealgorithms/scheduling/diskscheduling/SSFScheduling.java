@@ -1,5 +1,8 @@
 package com.thealgorithms.scheduling.diskscheduling;
 
+/* 最短寻道优先磁盘调度 */
+
+
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;

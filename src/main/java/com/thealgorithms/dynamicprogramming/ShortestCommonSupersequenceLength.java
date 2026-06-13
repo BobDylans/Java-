@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 最短公共超序列长度 */
+
+
 /**
  * Class that provides methods to calculate the length of the shortest
  * supersequence of two given strings. The shortest supersequence is the smallest string

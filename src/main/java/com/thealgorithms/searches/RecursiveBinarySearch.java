@@ -4,6 +4,9 @@
 // Explanation:- https://www.tutorialspoint.com/java-program-for-binary-search-recursive
 package com.thealgorithms.searches;
 
+/* 搜索算法接口 */
+
+
 import java.util.Scanner;
 
 // Create a SearchAlgorithm class with a generic type

@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 卡普雷卡数 */
+
+
 import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.List;

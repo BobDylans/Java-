@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 回文数判定 */
+
+
 public final class PalindromeNumber {
     private PalindromeNumber() {
     }

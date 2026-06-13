@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 0-1背包问题（表格法） */
+
+
 /**
  * Tabulation (Bottom-Up) Solution for 0-1 Knapsack Problem.
  * This method uses dynamic programming to build up a solution iteratively,

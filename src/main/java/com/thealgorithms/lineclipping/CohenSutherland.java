@@ -1,5 +1,8 @@
 package com.thealgorithms.lineclipping;
 
+/* Cohen-Sutherland线段裁剪算法 */
+
+
 import com.thealgorithms.lineclipping.utils.Line;
 import com.thealgorithms.lineclipping.utils.Point;
 

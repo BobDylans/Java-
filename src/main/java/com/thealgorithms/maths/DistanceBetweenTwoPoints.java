@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 两点间距离计算 */
+
+
 /**
  * Distance Between Two Points in 2D Space.
  *

@@ -1,5 +1,11 @@
 package com.thealgorithms.strings;
 
+/*
+ * 字符串全排列算法。
+ * 使用回溯法生成字符串的所有可能排列组合。
+ * 通过固定当前位置的字符，与后面的字符逐一交换，实现全排列生成。
+ */
+
 import java.util.HashSet;
 import java.util.Set;
 

@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 最大乘积子数组 */
+
+
 /**
  * The MaximumProductSubarray class implements the algorithm to find the
  * maximum product of a contiguous subarray within a given array of integers.

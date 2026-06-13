@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.lists;
 
+/* 递归搜索单链表 */
+
+
 /**
  * The SearchSinglyLinkedListRecursion class extends SinglyLinkedList and provides
  * a method to search for a value in a singly linked list using recursion.

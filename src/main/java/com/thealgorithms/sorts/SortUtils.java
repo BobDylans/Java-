@@ -1,5 +1,10 @@
 package com.thealgorithms.sorts;
 
+/* 排序工具类 */
+
+/* 排序工具类
+ * 提供排序算法常用的辅助方法：比较、交换、翻转数组、判断是否已排序等
+ */
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;

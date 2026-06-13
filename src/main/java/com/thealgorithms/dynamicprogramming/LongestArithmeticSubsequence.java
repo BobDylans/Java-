@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 最长等差数列子序列 */
+
+
 import java.util.HashMap;
 
 @SuppressWarnings({"rawtypes", "unchecked"})

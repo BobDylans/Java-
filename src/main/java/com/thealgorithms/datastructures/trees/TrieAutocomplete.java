@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.trees;
 
+/* 基于前缀树的自动补全 */
+
+
 // Java Program to implement Auto-Complete
 // Feature using Trie
 class TrieAutocomplete {

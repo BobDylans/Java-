@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 辛普森积分法 */
+
+
 import java.util.TreeMap;
 
 public class SimpsonIntegration {

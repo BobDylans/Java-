@@ -1,5 +1,8 @@
 package com.thealgorithms.matrix;
 
+/* 线性方程组求解 */
+
+
 /**
  * This class implements an algorithm for solving a system of equations of the form Ax=b using gaussian elimination and back substitution.
  *

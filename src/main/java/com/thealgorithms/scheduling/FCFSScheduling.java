@@ -1,5 +1,8 @@
 package com.thealgorithms.scheduling;
 
+/* 先来先服务调度 */
+
+
 import com.thealgorithms.devutils.entities.ProcessDetails;
 import java.util.List;
 

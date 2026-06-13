@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.lists;
 
+/* 创建并检测链表中环 */
+
+
 /**
  * CreateAndDetectLoop provides utility methods for creating and detecting loops
  * (cycles) in a singly linked list. Loops in a linked list are created by

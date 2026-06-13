@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 斐波那契数判定 */
+
+
 /**
  * Fibonacci: 0 1 1 2 3 5 8 13 21 ...
  * This code checks Fibonacci Numbers up to 45th number.

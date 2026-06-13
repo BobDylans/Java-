@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 计算两数二进制表示不同的位数 */
+
+
 /**
  * Implementation to count number of bits to be flipped to convert A to B
  *

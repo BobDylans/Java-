@@ -1,5 +1,12 @@
 package com.thealgorithms.strings;
 
+/*
+ * Top-K高频词算法。
+ * 从给定的单词数组中找出出现频率最高的K个词。
+ * 结果按频率降序排列，频率相同时按字典序升序排列。
+ * 参考资料：https://en.wikipedia.org/wiki/Top-k_problem
+ */
+
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.HashMap;

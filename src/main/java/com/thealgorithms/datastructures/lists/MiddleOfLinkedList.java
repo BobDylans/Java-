@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.lists;
 
+/* 链表中间节点查找 */
+
+
 /**
  * Returns the middle node of a singly linked list using the two-pointer technique.
  *

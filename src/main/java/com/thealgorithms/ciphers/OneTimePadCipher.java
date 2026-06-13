@@ -1,5 +1,8 @@
 package com.thealgorithms.ciphers;
 
+/* 一次性密码本 */
+
+
 import java.security.SecureRandom;
 import java.util.Objects;
 

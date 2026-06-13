@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 棋盘路径计数（动态规划） */
+
+
 public final class BoardPath {
     private BoardPath() {
     }

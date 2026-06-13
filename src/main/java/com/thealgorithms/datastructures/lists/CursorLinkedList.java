@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.lists;
 
+/* 游标链表 */
+
+
 import java.util.Objects;
 
 /**

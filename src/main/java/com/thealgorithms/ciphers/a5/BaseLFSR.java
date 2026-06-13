@@ -1,5 +1,8 @@
 package com.thealgorithms.ciphers.a5;
 
+/* 线性反馈移位寄存器基类 */
+
+
 import java.util.BitSet;
 
 public interface BaseLFSR {

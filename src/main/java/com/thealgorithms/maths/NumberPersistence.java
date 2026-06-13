@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 数字持久性计算 */
+
+
 /**
  * A utility class for calculating the persistence of a number.
  *

@@ -1,5 +1,8 @@
 package com.thealgorithms.searches;
 
+/* 带哨兵的线性搜索 */
+
+
 import com.thealgorithms.devutils.searches.SearchAlgorithm;
 
 /**

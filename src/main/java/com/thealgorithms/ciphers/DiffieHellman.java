@@ -1,5 +1,8 @@
 package com.thealgorithms.ciphers;
 
+/* Diffie-Hellman密钥交换 */
+
+
 import java.math.BigInteger;
 
 public final class DiffieHellman {

@@ -1,4 +1,7 @@
 package com.thealgorithms.others;
+
+/* Boyer-Moore多数投票算法 */
+
 import java.util.Optional;
 
 /**

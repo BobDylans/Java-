@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 不相邻元素的最大和 */
+
+
 /**
  * Class to find the maximum sum of non-adjacent elements in an array. This
  * class contains two approaches: one with O(n) space complexity and another

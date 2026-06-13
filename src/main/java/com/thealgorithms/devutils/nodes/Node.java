@@ -1,5 +1,7 @@
 package com.thealgorithms.devutils.nodes;
 
+/* for */
+
 /**
  * Base class for any node implementation which contains a generic type
  * variable.

@@ -1,5 +1,7 @@
 package com.thealgorithms.geometry;
 
+/* Polar Order */
+
 import java.util.Comparator;
 
 public record Point(int x, int y) implements Comparable<Point> {

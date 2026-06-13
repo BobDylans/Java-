@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.graphs;
 
+/* Kruskal最小生成树算法 */
+
+
 import java.util.Comparator;
 import java.util.HashSet;
 import java.util.PriorityQueue;

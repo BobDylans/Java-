@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 勾股三元组生成 */
+
+
 /**
  * Utility class to check if three integers form a Pythagorean triple.
  * A Pythagorean triple consists of three positive integers a, b, and c,

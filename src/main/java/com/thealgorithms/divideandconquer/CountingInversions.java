@@ -1,5 +1,8 @@
 package com.thealgorithms.divideandconquer;
 
+/* 逆序对计数（分治法） */
+
+
 /**
  * A utility class for counting the number of inversions in an array.
  * <p>

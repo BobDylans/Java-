@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 切比雪夫迭代法 */
+
+
 /**
  * In numerical analysis, Chebyshev iteration is an iterative method for solving
  * systems of linear equations Ax = b. It is designed for systems where the

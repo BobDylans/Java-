@@ -1,5 +1,8 @@
 package com.thealgorithms.searches;
 
+/* 指数搜索 */
+
+
 import com.thealgorithms.devutils.searches.SearchAlgorithm;
 import java.util.Arrays;
 

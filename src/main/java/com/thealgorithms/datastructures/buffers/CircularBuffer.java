@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.buffers;
 
+/* 环形缓冲区 */
+
+
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**

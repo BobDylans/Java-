@@ -1,5 +1,8 @@
 package com.thealgorithms.backtracking;
 
+/* 迷宫递归求解 */
+
+
 /**
  * This class contains methods to solve a maze using recursive backtracking.
  * The maze is represented as a 2D array where walls, paths, and visited/dead

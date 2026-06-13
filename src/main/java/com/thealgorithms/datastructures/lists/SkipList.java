@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.lists;
 
+/* 跳表数据结构 */
+
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;

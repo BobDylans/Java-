@@ -1,5 +1,8 @@
 package com.thealgorithms.ciphers;
 
+/* 自动密钥密码 */
+
+
 /**
  * The Autokey Cipher is an interesting and historically significant encryption method,
  * as it improves upon the classic Vigenère Cipher by using the plaintext itself to

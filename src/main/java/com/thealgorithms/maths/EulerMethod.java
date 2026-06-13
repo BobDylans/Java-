@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 欧拉法（数值计算） */
+
+
 import java.util.ArrayList;
 import java.util.function.BiFunction;
 

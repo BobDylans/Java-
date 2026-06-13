@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* Needleman-Wunsch全局序列比对 */
+
+
 /**
  * The Needleman–Wunsch algorithm performs global sequence alignment between two strings.
  * It computes the optimal alignment score using dynamic programming,

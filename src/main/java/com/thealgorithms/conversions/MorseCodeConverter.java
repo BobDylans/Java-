@@ -1,5 +1,8 @@
 package com.thealgorithms.conversions;
 
+/* 摩斯电码转换器 */
+
+
 import java.util.HashMap;
 import java.util.Map;
 

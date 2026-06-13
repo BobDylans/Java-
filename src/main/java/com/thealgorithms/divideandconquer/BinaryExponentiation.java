@@ -1,5 +1,8 @@
 package com.thealgorithms.divideandconquer;
 
+/* 二分快速幂 */
+
+
 // Java Program to Implement Binary Exponentiation (power in log n)
 
 // Reference Link: https://en.wikipedia.org/wiki/Exponentiation_by_squaring

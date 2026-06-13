@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 矩阵链乘法（递归+记忆化） */
+
+
 /**
  * The MatrixChainRecursiveTopDownMemoisation class implements the matrix-chain
  * multiplication problem using a top-down recursive approach with memoization.

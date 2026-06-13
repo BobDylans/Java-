@@ -1,5 +1,11 @@
 package com.thealgorithms.strings;
 
+/*
+ * 有限自动机（Finite Automata）字符串匹配算法。
+ * 预处理模式串构建状态转移表，然后在文本上进行线性扫描匹配。
+ * 参考资料：https://en.wikipedia.org/wiki/Finite-state_machine
+ */
+
 import java.util.Set;
 import java.util.TreeSet;
 

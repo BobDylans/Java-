@@ -1,5 +1,8 @@
 package com.thealgorithms.graph;
 
+/* Gomory-Hu树（最小割） */
+
+
 import java.util.ArrayDeque;
 import java.util.Arrays;
 import java.util.Queue;

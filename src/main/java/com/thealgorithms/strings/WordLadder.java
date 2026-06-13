@@ -1,5 +1,12 @@
 package com.thealgorithms.strings;
 
+/*
+ * 词语阶梯（Word Ladder）算法。
+ * 给定起始词和目标词，以及一个词典，找出从起始词转换到目标词的最短序列。
+ * 每次转换只能改变一个字母，且转换过程中的每个词都必须存在于词典中。
+ * 使用广度优先搜索（BFS）找到最短路径。
+ */
+
 import java.util.Collection;
 import java.util.HashSet;
 import java.util.LinkedList;

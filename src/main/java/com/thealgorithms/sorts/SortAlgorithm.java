@@ -1,5 +1,10 @@
 package com.thealgorithms.sorts;
 
+/* 排序算法接口 */
+
+/* 排序算法接口
+ * 定义排序算法的通用接口，所有排序算法都实现此接口
+ */
 import java.util.Arrays;
 import java.util.List;
 

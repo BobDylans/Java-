@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* Brian Kernighan位计数算法 */
+
+
 import java.util.Scanner;
 
 /**

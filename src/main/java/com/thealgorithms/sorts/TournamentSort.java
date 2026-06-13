@@ -1,5 +1,11 @@
 package com.thealgorithms.sorts;
 
+/* 锦标赛排序 */
+
+/* 锦标赛排序（Tournament Sort）
+ * 使用胜者树（Winner Tree）进行排序，类似锦标赛比赛
+ * 每轮找出最小元素并更新从叶节点到根节点的路径
+ */
 import java.util.Arrays;
 
 /**

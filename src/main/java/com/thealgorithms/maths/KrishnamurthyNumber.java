@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* Krishnamurthy数判定 */
+
+
 /**
  * Utility class for checking if a number is a Krishnamurthy number.
  *

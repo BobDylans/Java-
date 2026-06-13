@@ -1,5 +1,8 @@
 package com.thealgorithms.devutils.nodes;
 
+/* 简单节点实现 */
+
+
 /**
  * Simple Node implementation that holds a reference to the next Node.
  *

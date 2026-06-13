@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 0-1背包问题 */
+
+
 /**
  * The {@code KnapsackZeroOne} provides Recursive solution for the 0/1 Knapsack
  * problem. Solves by exploring all combinations of items using recursion. No

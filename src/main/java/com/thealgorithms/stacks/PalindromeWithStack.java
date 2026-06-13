@@ -1,5 +1,8 @@
 package com.thealgorithms.stacks;
 
+/* 栈判断回文 */
+
+
 import java.util.LinkedList;
 
 /**

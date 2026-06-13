@@ -1,5 +1,7 @@
 package com.thealgorithms.compression;
 
+/* LZW压缩算法 */
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

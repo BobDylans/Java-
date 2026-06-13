@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.queues;
 
+/* 线程安全队列 */
+
+
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
 

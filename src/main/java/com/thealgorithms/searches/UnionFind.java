@@ -1,5 +1,8 @@
 package com.thealgorithms.searches;
 
+/* 并查集（查找算法） */
+
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.graphs;
 
+/* 无向图邻接表实现 */
+
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;

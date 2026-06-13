@@ -1,5 +1,7 @@
 package com.thealgorithms.maths;
 
+/* Neville插值法 */
+
 import java.util.HashSet;
 import java.util.Set;
 

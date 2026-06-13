@@ -1,5 +1,8 @@
 package com.thealgorithms.stacks;
 
+/* 有效括号判定 */
+
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;

@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 朋友配对计数（动态规划） */
+
+
 /**
  * @author <a href="https://github.com/siddhant2002">Siddhant Swarup Mallick</a>
 

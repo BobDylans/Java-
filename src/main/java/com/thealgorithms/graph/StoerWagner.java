@@ -1,5 +1,8 @@
 package com.thealgorithms.graph;
 
+/* Stoer-Wagner全局最小割 */
+
+
 /**
  * An implementation of the Stoer-Wagner algorithm to find the global minimum cut of an undirected, weighted graph.
  * A minimum cut is a partition of the graph's vertices into two disjoint sets with the minimum possible edge weight

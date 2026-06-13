@@ -1,5 +1,13 @@
 package com.thealgorithms.sorts;
 
+/* 奇偶排序 */
+
+/* 奇偶排序（Odd-Even Sort）
+ * 类似冒泡排序的变体，交替处理奇索引对和偶索引对的相邻元素
+ * 适合并行计算
+ */
+import java.util.Arrays;
+
 /**
  * OddEvenSort class implements the SortAlgorithm interface using the odd-even sort technique.
  * Odd-even sort is a comparison sort related to bubble sort.

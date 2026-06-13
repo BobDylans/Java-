@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 欧拉函数φ(n) */
+
+
 /**
  * Utility class for computing
  * <a href="https://en.wikipedia.org/wiki/Euler%27s_totient_function">Euler's totient function</a>.

@@ -1,5 +1,8 @@
 package com.thealgorithms.searches;
 
+/* 二维数组二分查找 */
+
+
 /**
  * This class provides a method to search for a target value in a 2D sorted
  * array.

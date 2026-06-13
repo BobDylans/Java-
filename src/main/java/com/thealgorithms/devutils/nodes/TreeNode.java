@@ -1,5 +1,7 @@
 package com.thealgorithms.devutils.nodes;
 
+/* for */
+
 /**
  * Base class for any tree node which holds a reference to the parent node.
  *

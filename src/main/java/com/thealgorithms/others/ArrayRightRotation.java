@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* 数组右旋转 */
+
+
 /**
  * Provides a method to perform a right rotation on an array.
  * A left rotation operation shifts each element of the array

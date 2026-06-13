@@ -1,5 +1,12 @@
 package com.thealgorithms.strings;
 
+/*
+ * 字符串压缩算法（游程编码/Run-Length Encoding）。
+ * 将连续重复的字符序列压缩为"字符+重复次数"的形式。
+ * 例如："aaabbc" -> "a3b2c"
+ * 参考资料：https://en.wikipedia.org/wiki/Run-length_encoding
+ */
+
 /**
  * References : https://en.wikipedia.org/wiki/Run-length_encoding
  * String compression algorithm deals with encoding the string, that is, shortening the size of the string

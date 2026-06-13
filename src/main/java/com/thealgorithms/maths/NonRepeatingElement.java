@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 不重复元素查找 */
+
+
 /**
  * Find the 2 elements which are non-repeating in an array
  * Reason to use bitwise operator: It makes our program faster as we are operating on bits and not

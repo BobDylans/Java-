@@ -1,5 +1,8 @@
 package com.thealgorithms.searches;
 
+/* 不区分顺序的二分查找 */
+
+
 // URL: https://www.geeksforgeeks.org/order-agnostic-binary-search/
 
 /* Order Agnostic Binary Search is an algorithm where we do not know whether the given

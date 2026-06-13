@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 具有相同1位数量的下一个更大数 */
+
+
 /**
  * This class provides a method to find the next higher number
  * with the same number of set bits as the given number.

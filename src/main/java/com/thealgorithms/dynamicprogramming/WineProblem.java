@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 卖酒问题（动态规划） */
+
+
 /**
  * The WineProblem class provides a solution to the wine selling problem.
  * Given a collection of N wines with different prices, the objective is to maximize profit by selling

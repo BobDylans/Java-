@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 矩阵链乘法（动态规划） */
+
+
 import java.util.ArrayList;
 import java.util.Arrays;
 

@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 等差数列求和 */
+
+
 /**
  * In mathematics, an arithmetic progression (AP) or arithmetic sequence is a
  * sequence of numbers such that the difference between the consecutive terms is

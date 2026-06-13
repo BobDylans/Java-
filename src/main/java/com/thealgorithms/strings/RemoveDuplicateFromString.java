@@ -1,5 +1,11 @@
 package com.thealgorithms.strings;
 
+/*
+ * 移除字符串中的重复字符算法。
+ * 从字符串中删除所有重复出现的字符，仅保留首次出现的位置，
+ * 保持原有字符顺序不变。
+ */
+
 /**
  * @author Varun Upadhyay (https://github.com/varunu28)
  */

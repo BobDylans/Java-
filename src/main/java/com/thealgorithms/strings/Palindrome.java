@@ -1,8 +1,12 @@
 package com.thealgorithms.strings;
 
-/**
- * Wikipedia: https://en.wikipedia.org/wiki/Palindrome
+/*
+ * 回文（Palindrome）检测算法。
+ * 检测字符串是否正读和反读都相同。
+ * 提供多种实现方式：StringBuilder反转、双指针、递归。
+ * 参考资料：https://en.wikipedia.org/wiki/Palindrome
  */
+
 final class Palindrome {
     private Palindrome() {
     }

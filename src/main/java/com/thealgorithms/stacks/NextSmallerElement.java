@@ -1,5 +1,8 @@
 package com.thealgorithms.stacks;
 
+/* 下一个更小元素 */
+
+
 import java.util.Arrays;
 import java.util.Stack;
 

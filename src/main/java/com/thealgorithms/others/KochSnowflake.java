@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* 科赫雪花分形 */
+
+
 import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.Graphics2D;

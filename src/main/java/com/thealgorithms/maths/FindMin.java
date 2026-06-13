@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 查找最小值 */
+
+
 public final class FindMin {
     private FindMin() {
     }

@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 向量叉积 */
+
+
 /**
  * @file
  *

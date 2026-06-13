@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 阿姆斯特朗数判定 */
+
+
 /**
  * This class checks whether a given number is an Armstrong number or not.
  * An Armstrong number is a number that is equal to the sum of its own digits,

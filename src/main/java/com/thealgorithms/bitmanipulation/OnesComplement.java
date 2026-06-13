@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 二进制反码 */
+
+
 /**
  * @author - https://github.com/Monk-AbhinayVerma
  * @Wikipedia - https://en.wikipedia.org/wiki/Ones%27_complement

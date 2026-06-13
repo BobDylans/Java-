@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 标准差计算 */
+
+
 public final class StandardDeviation {
     private StandardDeviation() {
     }

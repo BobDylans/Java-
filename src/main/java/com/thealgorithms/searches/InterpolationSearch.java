@@ -1,6 +1,9 @@
 
 package com.thealgorithms.searches;
 
+/* 插值搜索 */
+
+
 /**
  * InterpolationSearch is an algorithm that searches for a target value within a sorted array
  * by estimating the position based on the values at the corners of the current search range.

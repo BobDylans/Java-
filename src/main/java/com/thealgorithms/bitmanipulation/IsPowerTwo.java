@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 判断2的幂 */
+
+
 /**
  * Utility class for checking if a number is a power of two.
  * A power of two is a number that can be expressed as 2^n where n is a non-negative integer.

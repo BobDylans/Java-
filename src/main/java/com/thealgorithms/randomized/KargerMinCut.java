@@ -1,5 +1,8 @@
 package com.thealgorithms.randomized;
 
+/* Karger随机最小割算法 */
+
+
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashSet;

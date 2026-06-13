@@ -1,5 +1,8 @@
 package com.thealgorithms.sorts;
 
+/* 二分插入排序 */
+
+
 /**
  * BinaryInsertionSort class implements the SortAlgorithm interface using the binary insertion sort technique.
  * Binary Insertion Sort improves upon the simple insertion sort by using binary search to find the appropriate

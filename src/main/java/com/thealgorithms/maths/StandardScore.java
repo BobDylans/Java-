@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 标准分数（Z分数） */
+
+
 public final class StandardScore {
     private StandardScore() {
     }

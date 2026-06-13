@@ -1,5 +1,8 @@
 package com.thealgorithms.prefixsum;
 
+/* 差分数组 */
+
+
 /**
  * Implements the Difference Array algorithm.
  *

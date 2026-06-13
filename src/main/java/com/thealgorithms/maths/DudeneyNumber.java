@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 杜德尼数判定 */
+
+
 /**
  * A number is said to be Dudeney if the sum of the digits, is the cube root of the entered number.
  * Example- Let the number be 512, its sum of digits is 5+1+2=8. The cube root of 512 is also 8.

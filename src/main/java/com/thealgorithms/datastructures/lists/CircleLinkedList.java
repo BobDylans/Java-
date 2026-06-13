@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.lists;
 
+/* 循环链表 */
+
+
 /**
  * This class is a circular singly linked list implementation. In a circular linked list,
  * the last node points back to the first node, creating a circular chain.

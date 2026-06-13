@@ -1,5 +1,11 @@
 package com.thealgorithms.strings;
 
+/*
+ * Rabin-Karp字符串匹配算法。
+ * 使用哈希函数（滚动哈希）在文本中查找模式串的所有出现位置。
+ * 通过比较哈希值快速筛选候选位置，再进行字符逐一确认。
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 

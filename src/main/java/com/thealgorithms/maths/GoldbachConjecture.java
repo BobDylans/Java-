@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 哥德巴赫猜想 */
+
+
 import static com.thealgorithms.maths.Prime.PrimeCheck.isPrime;
 
 /**

@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 快速幂运算 */
+
+
 /**
  * This class provides a method to perform fast exponentiation (exponentiation by squaring),
  * which calculates (base^exp) % mod efficiently.

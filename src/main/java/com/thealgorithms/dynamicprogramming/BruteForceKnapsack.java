@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 暴力背包问题 */
+
+
 /**
  * A naive recursive implementation of the 0-1 Knapsack problem.
  *

@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 最小值 */
+
+
 public final class MinValue {
     private MinValue() {
     }

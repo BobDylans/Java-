@@ -1,5 +1,7 @@
 package com.thealgorithms.others;
 
+/* BFPRT中位数查找算法 */
+
 /**
  * The BFPRT (Median of Medians) algorithm implementation.
  * It provides a way to find the k-th smallest element in an unsorted array

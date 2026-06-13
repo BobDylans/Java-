@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 最小公倍数 */
+
+
 /**
  * Is a common mathematics concept to find the smallest value number
  * that can be divide using either number without having the remainder.

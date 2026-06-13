@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 真因子和（等分和） */
+
+
 import java.util.stream.IntStream;
 
 /**

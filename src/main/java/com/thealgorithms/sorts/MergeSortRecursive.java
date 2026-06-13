@@ -1,5 +1,11 @@
 package com.thealgorithms.sorts;
 
+/* 递归归并排序 */
+
+/* 递归归并排序（Merge Sort Recursive）
+ * 使用递归方式实现的经典归并排序
+ * 将数组递归分割再合并
+ */
 import java.util.ArrayList;
 import java.util.List;
 

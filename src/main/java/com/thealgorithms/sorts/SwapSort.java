@@ -1,5 +1,13 @@
 package com.thealgorithms.sorts;
 
+/* 交换排序 */
+
+/* 交换排序（Swap Sort）
+ * 计算每个元素前面有多少个更小的元素，然后将元素交换到对应的正确位置
+ * 缺点是数组中不能有重复元素，否则无法终止
+ */
+import java.util.Arrays;
+
 /**
  * The idea of Swap-Sort is to count the number m of smaller values (that are in
  * A) from each element of an array A(1...n) and then swap the element with the

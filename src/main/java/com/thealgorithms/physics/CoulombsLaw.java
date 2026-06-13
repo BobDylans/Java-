@@ -1,5 +1,8 @@
 package com.thealgorithms.physics;
 
+/* 库仑定律计算 */
+
+
 /**
  * Implements Coulomb's Law for electrostatics.
  * Provides simple static methods to calculate electrostatic force and circular orbit velocity.

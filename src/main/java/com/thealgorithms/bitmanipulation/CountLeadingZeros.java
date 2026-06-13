@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 计算前导零个数 */
+
+
 /**
  * CountLeadingZeros class contains a method to count the number of leading zeros in the binary representation of a number.
  * The number of leading zeros is the number of zeros before the leftmost 1 bit.

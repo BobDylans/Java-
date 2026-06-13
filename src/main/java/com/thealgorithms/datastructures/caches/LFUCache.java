@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.caches;
 
+/* 最不经常使用缓存 */
+
+
 import java.util.HashMap;
 import java.util.Map;
 

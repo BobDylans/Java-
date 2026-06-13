@@ -1,5 +1,8 @@
 package com.thealgorithms.conversions;
 
+/* 十进制转二进制 */
+
+
 /**
  * This class provides methods to convert a decimal number to a binary number.
  */

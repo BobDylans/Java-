@@ -1,6 +1,9 @@
 
 package com.thealgorithms.searches;
 
+/* 线性搜索 */
+
+
 import com.thealgorithms.devutils.searches.SearchAlgorithm;
 
 /**

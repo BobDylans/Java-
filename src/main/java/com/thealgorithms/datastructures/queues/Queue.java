@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.queues;
 
+/* 队列接口定义 */
+
+
 /**
  * This class implements a Queue data structure using an array.
  * A queue is a first-in-first-out (FIFO) data structure where elements are

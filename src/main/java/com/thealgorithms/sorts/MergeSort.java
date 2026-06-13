@@ -1,5 +1,11 @@
 package com.thealgorithms.sorts;
 
+/* 归并排序 */
+
+/* 归并排序（Merge Sort）
+ * 经典的分治排序算法，将数组分成两半递归排序再合并
+ * 时间复杂度O(n log n)，空间复杂度O(n)
+ */
 import static com.thealgorithms.sorts.SortUtils.less;
 
 /**

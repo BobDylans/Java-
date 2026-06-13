@@ -1,5 +1,8 @@
 package com.thealgorithms.compression;
 
+/* 香农-范诺编码 */
+
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;

@@ -1,5 +1,8 @@
 package com.thealgorithms.randomized;
 
+/* 蒙特卡洛积分 */
+
+
 import java.util.Random;
 import java.util.function.Function;
 

@@ -1,5 +1,7 @@
 package com.thealgorithms.datastructures.hashmap.hashing;
 
+/* 映射接口定义 */
+
 public abstract class Map<Key, Value> {
 
     abstract boolean put(Key key, Value value);

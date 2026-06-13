@@ -1,5 +1,8 @@
 package com.thealgorithms.graph;
 
+/* 优化强连通分量算法 */
+
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;

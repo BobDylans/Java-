@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* 16位循环冗余校验 */
+
+
 /**
  * Generates a crc16 checksum for a given string
  */

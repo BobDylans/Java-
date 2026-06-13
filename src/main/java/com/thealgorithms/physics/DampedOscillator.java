@@ -1,5 +1,8 @@
 package com.thealgorithms.physics;
 
+/* 阻尼振荡模拟 */
+
+
 /**
  * Models a damped harmonic oscillator, capturing the behavior of a mass-spring-damper system.
  *

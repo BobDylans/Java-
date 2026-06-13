@@ -1,5 +1,13 @@
 package com.thealgorithms.sorts;
 
+/* 堆排序 */
+
+/* 堆排序（Heap Sort）
+ * 将数组构建成最大堆，反复提取最大元素并重新调整堆
+ * 时间复杂度O(n log n)，空间复杂度O(1)
+ */
+import java.util.Arrays;
+
 /**
  * Heap Sort algorithm implementation.
  *

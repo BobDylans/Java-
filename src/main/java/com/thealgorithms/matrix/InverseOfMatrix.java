@@ -1,5 +1,8 @@
 package com.thealgorithms.matrix;
 
+/* 矩阵求逆 */
+
+
 /**
  * This class provides methods to compute the inverse of a square matrix
  * using Gaussian elimination. For more details, refer to:

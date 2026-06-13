@@ -1,5 +1,8 @@
 package com.thealgorithms.searches;
 
+/* Boyer-Moore多数投票算法 */
+
+
 /**
  * Boyer-Moore string search algorithm.
  * Efficient algorithm for substring search.

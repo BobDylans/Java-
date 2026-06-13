@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.heaps;
 
+/* 堆接口定义 */
+
+
 /**
  * Interface common to heap data structures.<br>
  *

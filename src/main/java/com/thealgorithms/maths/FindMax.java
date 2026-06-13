@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 查找最大值 */
+
+
 public final class FindMax {
     private FindMax() {
     }

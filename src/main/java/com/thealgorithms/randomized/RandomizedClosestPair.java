@@ -1,5 +1,8 @@
 package com.thealgorithms.randomized;
 
+/* 随机化最近点对 */
+
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;

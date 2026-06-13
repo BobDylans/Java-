@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.trees;
 
+/* 伸展树 */
+
+
 import java.util.LinkedList;
 import java.util.List;
 

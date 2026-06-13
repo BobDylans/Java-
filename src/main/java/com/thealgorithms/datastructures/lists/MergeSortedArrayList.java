@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.lists;
 
+/* 合并有序数组列表 */
+
+
 import java.util.Collection;
 import java.util.List;
 

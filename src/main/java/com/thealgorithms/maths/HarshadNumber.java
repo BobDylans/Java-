@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 哈沙德数判定 */
+
+
 /**
  * A Harshad number (or Niven number) in a given number base is an integer that
  * is divisible by the sum of its digits.

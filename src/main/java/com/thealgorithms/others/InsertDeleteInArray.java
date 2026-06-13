@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* 数组的插入与删除 */
+
+
 import java.util.Arrays;
 import java.util.Scanner;
 

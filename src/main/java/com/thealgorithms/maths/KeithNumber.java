@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 基思数判定 */
+
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;

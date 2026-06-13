@@ -1,5 +1,13 @@
 package com.thealgorithms.strings;
 
+/*
+ * AlternativeStringArrange - 字符串交替合并
+ * 
+ * 将两个字符串的字符交替排列合并。
+ * 如果一个字符串较长,其剩余字符会附加到结果末尾。
+ * 例如:"abc"和"12345"合并为"a1b2c345"。
+ */
+
 /**
  * This class provides a method to arrange two strings by alternating their characters.
  * If one string is longer, the remaining characters of the longer string are appended at the end.

@@ -1,5 +1,8 @@
 package com.thealgorithms.randomized;
 
+/* 随机化快速排序 */
+
+
 /**
  * This class implements the Randomized QuickSort algorithm.
  * It selects a pivot randomly to improve performance on sorted or nearly sorted data.

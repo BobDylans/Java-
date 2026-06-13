@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* 线性同余随机数生成器 */
+
+
 /**
  * *
  * A pseudorandom number generator.

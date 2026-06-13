@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 众数计算 */
+
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;

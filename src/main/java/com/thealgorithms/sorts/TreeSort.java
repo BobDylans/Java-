@@ -1,5 +1,10 @@
 package com.thealgorithms.sorts;
 
+/* 树排序 */
+
+/* 树排序（Tree Sort）
+ * 通过将元素构建成二叉搜索树（BST），然后通过中序遍历输出有序序列
+ */
 import static com.thealgorithms.sorts.SortUtils.print;
 
 import com.thealgorithms.datastructures.trees.BSTRecursiveGeneric;

@@ -1,5 +1,8 @@
 package com.thealgorithms.slidingwindow;
 
+/* 和不超过K的最长子数组 */
+
+
 /**
  * The Longest Subarray with Sum Less Than or Equal to k algorithm finds the length
  * of the longest subarray whose sum is less than or equal to a given value k.

@@ -1,5 +1,11 @@
 package com.thealgorithms.sorts;
 
+/* 优先队列排序 */
+
+/* 优先级队列排序（Priority Queue Sort）
+ * 使用Java的PriorityQueue（最小堆）进行排序
+ * 将所有元素入队再依次出队得到有序序列
+ */
 import java.util.PriorityQueue;
 
 /**

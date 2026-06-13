@@ -1,5 +1,7 @@
 package com.thealgorithms.datastructures.hashmap.hashing;
 
+/* 布谷鸟哈希主程序 */
+
 import java.util.Scanner;
 
 public final class MainCuckooHashing {

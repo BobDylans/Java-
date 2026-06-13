@@ -1,5 +1,8 @@
 package com.thealgorithms.scheduling;
 
+/* 最高响应比优先调度 */
+
+
 import java.util.Arrays;
 import java.util.Comparator;
 

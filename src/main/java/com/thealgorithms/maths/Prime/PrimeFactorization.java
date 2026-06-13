@@ -1,5 +1,8 @@
 package com.thealgorithms.maths.Prime;
 
+/* 质因数分解 */
+
+
 /*
  * Authors:
  * (1) Aitor Fidalgo Sánchez (https://github.com/aitorfi)

@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.lists;
 
+/* 单链表实现 */
+
+
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 import java.util.StringJoiner;

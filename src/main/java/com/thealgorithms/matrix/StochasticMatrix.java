@@ -1,5 +1,8 @@
 package com.thealgorithms.matrix;
 
+/* 随机矩阵判定 */
+
+
 /**
  * Utility class to check whether a matrix is stochastic.
  * A matrix is stochastic if all its elements are non-negative

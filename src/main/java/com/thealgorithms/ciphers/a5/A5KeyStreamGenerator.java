@@ -1,5 +1,8 @@
 package com.thealgorithms.ciphers.a5;
 
+/* A5密钥流生成器 */
+
+
 import java.util.BitSet;
 
 /**

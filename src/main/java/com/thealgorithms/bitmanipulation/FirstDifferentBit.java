@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 第一个不同的二进制位 */
+
+
 /**
  * This class provides a method to find the first differing bit
  * between two integers.

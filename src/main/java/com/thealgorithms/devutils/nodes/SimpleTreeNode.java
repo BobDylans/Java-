@@ -1,5 +1,8 @@
 package com.thealgorithms.devutils.nodes;
 
+/* 简单树节点 */
+
+
 /**
  * Simple TreeNode extension that holds references to two child Nodes (left and
  * right).

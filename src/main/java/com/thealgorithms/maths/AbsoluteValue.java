@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 绝对值计算 */
+
+
 public final class AbsoluteValue {
     private AbsoluteValue() {
     }

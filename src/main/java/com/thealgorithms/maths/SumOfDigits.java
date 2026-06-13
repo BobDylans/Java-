@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 各位数字之和 */
+
+
 public final class SumOfDigits {
     private SumOfDigits() {
     }

@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 递归查找最小值 */
+
+
 public final class FindMinRecursion {
 
     private FindMinRecursion() {

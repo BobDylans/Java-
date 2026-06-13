@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 邪恶数判定 */
+
+
 /**
  * In number theory, an evil number is a non-negative integer that has an even number of 1s in its binary expansion.
  * Non-negative integers that are not evil are called odious numbers.

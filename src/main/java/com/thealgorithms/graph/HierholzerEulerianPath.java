@@ -1,5 +1,8 @@
 package com.thealgorithms.graph;
 
+/* Hierholzer欧拉路径算法（图） */
+
+
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Collections;

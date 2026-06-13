@@ -1,5 +1,8 @@
 package com.thealgorithms.greedyalgorithms;
 
+/* 最小等待时间（贪心） */
+
+
 import java.util.Arrays;
 
 /**

@@ -1,5 +1,8 @@
 package com.thealgorithms.searches;
 
+/* 斐波那契搜索 */
+
+
 import com.thealgorithms.devutils.searches.SearchAlgorithm;
 
 /**

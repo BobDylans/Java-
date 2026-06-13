@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 找出只出现一次的元素 */
+
+
 /**
  * Utility class to find the single non-duplicate element from an array
  * where all other elements appear twice.

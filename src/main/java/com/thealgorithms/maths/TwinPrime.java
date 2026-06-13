@@ -1,13 +1,6 @@
 package com.thealgorithms.maths;
-/*
- * Java program to find 'twin prime' of a prime number
- * Twin Prime: Twin prime of a number n is (n+2)
- * if and only if n & (n+2) are prime.
- * Wikipedia: https://en.wikipedia.org/wiki/Twin_prime
- *
- * Author: Akshay Dubey (https://github.com/itsAkshayDubey)
- *
- * */
+
+/* 孪生素数判定 */
 
 import com.thealgorithms.maths.Prime.PrimeCheck;
 

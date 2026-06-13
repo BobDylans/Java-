@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 单一位操作工具集 */
+
+
 /**
  * A utility class for performing single-bit operations on integers.
  * These operations include flipping, setting, clearing, and getting

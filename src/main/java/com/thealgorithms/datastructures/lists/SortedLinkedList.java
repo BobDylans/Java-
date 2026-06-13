@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.lists;
 
+/* 有序链表 */
+
+
 import java.util.ArrayList;
 import java.util.List;
 

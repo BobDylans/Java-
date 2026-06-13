@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 相差一位的二进制数 */
+
+
 /**
  * This class provides a method to detect if two integers
  * differ by exactly one bit flip.

@@ -18,6 +18,16 @@ import java.util.List;
 import java.util.Map;
 import java.util.Queue;
 
+/*
+ * AhoCorasick - Aho-Corasick多模式字符串匹配算法
+ * 
+ * 在文本中同时查找多个模式串的高效算法,基于字典树和BFS构建后缀链接与输出链接。
+ * 时间复杂度O(n+m+z),其中n为文本长度,m为模式串总长度,z为匹配结果数量。
+ */
+
+/**
+ * @author Prabhat-Kumar-42
+ */
 public final class AhoCorasick {
     private AhoCorasick() {
     }

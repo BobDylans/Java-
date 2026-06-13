@@ -1,5 +1,8 @@
 package com.thealgorithms.conversions;
 
+/* 十进制转十六进制 */
+
+
 /**
  * This class provides a method to convert a decimal number to a hexadecimal string.
  */

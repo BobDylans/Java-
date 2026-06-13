@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 卢卡斯数列 */
+
+
 /**
  * Utility class for calculating Lucas numbers.
  * The Lucas sequence is similar to the Fibonacci sequence but starts with 2 and

@@ -1,5 +1,8 @@
 package com.thealgorithms.backtracking;
 
+/* 子序列查找器 */
+
+
 import java.util.ArrayList;
 import java.util.List;
 

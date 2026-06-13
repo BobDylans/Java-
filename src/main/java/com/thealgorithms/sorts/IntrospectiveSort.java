@@ -1,5 +1,13 @@
 package com.thealgorithms.sorts;
 
+/* 内省排序 */
+
+/* 内省排序（Introspective Sort）
+ * 结合快速排序、堆排序和插入排序的混合排序算法
+ * 当递归深度超过阈值时自动切换到堆排序，避免快速排序的最坏情况
+ */
+import java.util.Arrays;
+
 /**
  * Introspective Sort Algorithm Implementation
  *

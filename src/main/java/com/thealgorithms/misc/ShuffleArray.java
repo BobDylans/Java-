@@ -1,5 +1,8 @@
 package com.thealgorithms.misc;
 
+/* 数组洗牌算法 */
+
+
 import java.util.Random;
 
 /**

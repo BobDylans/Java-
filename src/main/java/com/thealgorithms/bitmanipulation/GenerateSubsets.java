@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 递归生成子集 */
+
+
 import java.util.ArrayList;
 import java.util.List;
 

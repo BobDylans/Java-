@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 二项式系数计算 */
+
+
 /*
  * Java program for Binomial Coefficients
  * Binomial Coefficients: A binomial coefficient C(n,k) gives number ways

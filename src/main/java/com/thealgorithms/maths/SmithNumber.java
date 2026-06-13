@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* 史密斯数判定 */
+
+
 import com.thealgorithms.maths.Prime.PrimeCheck;
 
 /**

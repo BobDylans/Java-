@@ -1,5 +1,8 @@
 package com.thealgorithms.matrix;
 
+/* QR分解（Gram-Schmidt） */
+
+
 /**
  * @brief Implementation of QR Decomposition using the Gram-Schmidt process
  * @details Decomposes a matrix A into an orthogonal matrix Q and an upper

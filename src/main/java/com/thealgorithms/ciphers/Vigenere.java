@@ -1,5 +1,8 @@
 package com.thealgorithms.ciphers;
 
+/* 维吉尼亚密码 */
+
+
 /**
  * A Java implementation of the Vigenère Cipher.
  *

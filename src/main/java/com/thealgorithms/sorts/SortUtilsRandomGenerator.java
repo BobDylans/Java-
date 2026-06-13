@@ -1,5 +1,10 @@
 package com.thealgorithms.sorts;
 
+/* 排序随机数生成器 */
+
+/* 排序工具随机数生成器
+ * 提供用于测试排序算法的随机数生成功能
+ */
 import java.util.Random;
 
 public final class SortUtilsRandomGenerator {

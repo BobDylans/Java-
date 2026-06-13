@@ -1,10 +1,11 @@
 package com.thealgorithms.strings;
 
-import java.util.Stack;
-
-/**
- * Reverse String using different version
+/*
+ * 字符串反转算法集合。
+ * 提供多种方式实现字符串反转：StringBuilder、双指针、栈、递归。
  */
+
+import java.util.Stack;
 public final class ReverseString {
     private ReverseString() {
     }

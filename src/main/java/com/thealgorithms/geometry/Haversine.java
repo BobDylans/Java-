@@ -1,16 +1,6 @@
 package com.thealgorithms.geometry;
-/**
- * This Class implements the Haversine formula to calculate the distance between two points on a sphere (like Earth) from their latitudes and longitudes.
- *
- * The Haversine formula is used in navigation and mapping to find the great-circle distance,
- * which is the shortest distance between two points along the surface of a sphere. It is often
- * used to calculate the "as the crow flies" distance between two geographical locations.
- *
- * The formula is reliable for all distances, including small ones, and avoids issues with
- * numerical instability that can affect other methods.
- *
- * @see "https://en.wikipedia.org/wiki/Haversine_formula" - Wikipedia
- */
+
+/* Haversine球面距离公式 */
 public final class Haversine {
 
     // Average radius of Earth in kilometers

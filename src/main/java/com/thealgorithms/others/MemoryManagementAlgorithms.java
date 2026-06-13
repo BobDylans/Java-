@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* 内存管理算法 */
+
+
 import java.util.ArrayList;
 /**
  * @author Alexandros Lemonaris

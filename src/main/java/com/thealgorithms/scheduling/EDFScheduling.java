@@ -1,5 +1,8 @@
 package com.thealgorithms.scheduling;
 
+/* 最早截止时间优先调度 */
+
+
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;

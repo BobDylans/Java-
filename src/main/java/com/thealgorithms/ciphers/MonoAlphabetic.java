@@ -1,5 +1,8 @@
 package com.thealgorithms.ciphers;
 
+/* 单字母替换密码 */
+
+
 public final class MonoAlphabetic {
 
     private MonoAlphabetic() {

@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.disjointsetunion;
 
+/* 并查集数据结构 */
+
+
 /**
  * Disjoint Set Union (DSU), also known as Union-Find, is a data structure that tracks a set of elements
  * partitioned into disjoint (non-overlapping) subsets. It supports two primary operations efficiently:

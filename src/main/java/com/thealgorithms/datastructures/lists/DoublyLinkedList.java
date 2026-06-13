@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.lists;
 
+/* 双向链表 */
+
+
 /**
  * This class implements a DoublyLinkedList. This is done using the classes
  * LinkedList and Link.

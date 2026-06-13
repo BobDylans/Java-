@@ -1,5 +1,8 @@
 package com.thealgorithms.maths;
 
+/* Nilakantha级数计算π */
+
+
 public final class PiNilakantha {
     private PiNilakantha() {
     }

@@ -1,5 +1,8 @@
 package com.thealgorithms.bitmanipulation;
 
+/* 查找不重复的数字 */
+
+
 /**
  * A utility class to find the non-repeating number in an array where every other number repeats.
  * This class contains a method to identify the single unique number using bit manipulation.

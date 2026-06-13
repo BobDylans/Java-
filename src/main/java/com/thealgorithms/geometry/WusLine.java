@@ -1,5 +1,8 @@
 package com.thealgorithms.geometry;
 
+/* Wu反走样直线算法 */
+
+
 import java.awt.Point;
 import java.util.ArrayList;
 import java.util.List;

@@ -1,5 +1,8 @@
 package com.thealgorithms.dynamicprogramming;
 
+/* 切钢条问题（动态规划） */
+
+
 /**
  * A Dynamic Programming solution for the Rod cutting problem.
  * Returns the best obtainable price for a rod of length n and price[] as prices of different pieces.

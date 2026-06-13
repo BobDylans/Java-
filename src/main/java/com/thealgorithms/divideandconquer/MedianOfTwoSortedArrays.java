@@ -1,5 +1,8 @@
 package com.thealgorithms.divideandconquer;
 
+/* 两个有序数组的中位数（分治法） */
+
+
 public final class MedianOfTwoSortedArrays {
 
     private MedianOfTwoSortedArrays() {

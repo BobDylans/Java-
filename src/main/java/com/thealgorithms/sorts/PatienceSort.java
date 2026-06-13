@@ -1,5 +1,11 @@
 package com.thealgorithms.sorts;
 
+/* 耐心排序 */
+
+/* 耐心排序（Patience Sort）
+ * 类似纸牌游戏，将元素分配到多个"堆"中，每个堆内递减
+ * 最终通过优先级队列合并所有堆
+ */
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

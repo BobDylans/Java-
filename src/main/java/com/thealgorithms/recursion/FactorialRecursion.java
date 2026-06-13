@@ -1,5 +1,8 @@
 package com.thealgorithms.recursion;
 
+/* 递归阶乘 */
+
+
 public final class FactorialRecursion {
     private FactorialRecursion() {
     }

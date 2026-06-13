@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.bags;
 
+/* 背包数据结构 */
+
+
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 

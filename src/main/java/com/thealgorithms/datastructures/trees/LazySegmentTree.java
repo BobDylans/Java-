@@ -1,5 +1,8 @@
 package com.thealgorithms.datastructures.trees;
 
+/* 惰性线段树 */
+
+
 public class LazySegmentTree {
 
     /**

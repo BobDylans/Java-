@@ -1,5 +1,8 @@
 package com.thealgorithms.others;
 
+/* 柏林噪声生成 */
+
+
 import java.util.Random;
 import java.util.Scanner;
 
