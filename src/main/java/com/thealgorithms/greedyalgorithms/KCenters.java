@@ -31,6 +31,13 @@ public final class KCenters {
      * @param k         the number of centers
      * @return the maximum distance to the nearest center
      */
+    /*
+     * 还是先从入参的角度入手看看题目是如何定义的
+     * 假设现在有一个数轴,上面分布着n的点,题目要求选择k的点,保证n个点中的任意一个点到k个点中的最长距离最短
+     * 题目有点绕,可以简单画个图理解一点,比如有 2,4,10,18 这几个值,现在选择2个点,让所有4个点到2点中最长距离最短
+     * 入参目前就是一个二维数组,一维的长度代表有n个点,[i][j]则是i点到j点之间的距离
+     * 
+     * */
     public static int findKCenters(int[][] distances, int k) {
         int n = distances.length;
         boolean[] selected = new boolean[n];
