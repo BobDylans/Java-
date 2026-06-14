@@ -35,13 +35,16 @@ public final class MinimizingLateness {
     static void calculateLateness(Job... jobs) {
 
         // sort the jobs based on their deadline
+        // 首先根据jobs的截至期限进行排序,截至时间越早排的越前 
         Arrays.sort(jobs, (a, b) -> a.deadline - b.deadline);
-
+        // 默认起始时间是0
         int startTime = 0;
 
         for (Job job : jobs) {
             job.startTime = startTime;
+            // 更新下一个任务的开始时间,也就是当前任务的开始时间+执行所需时间
             startTime += job.processingTime;
+            // 计算一下延迟,比较0和 任务下一个开始时间(也就是当前任务完成时间)减去任务截至时间,后者如果为负数说明没有延迟
             job.lateness = Math.max(0, startTime - job.deadline); // if the job finishes before deadline the lateness is 0
         }
     }
