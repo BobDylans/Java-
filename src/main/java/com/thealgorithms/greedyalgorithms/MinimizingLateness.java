@@ -36,6 +36,7 @@ public final class MinimizingLateness {
 
         // sort the jobs based on their deadline
         // 首先根据jobs的截至期限进行排序,截至时间越早排的越前 
+        // 看到了还是想说明一下,sort方法有两个入参,一个是需要排序的数据,一个是进行排序所依据的函数接口,可以使用lambda语法直接实现
         Arrays.sort(jobs, (a, b) -> a.deadline - b.deadline);
         // 默认起始时间是0
         int startTime = 0;

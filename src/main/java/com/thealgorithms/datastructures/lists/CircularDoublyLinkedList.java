@@ -112,6 +112,7 @@ public class CircularDoublyLinkedList<E> {
         for (int i = 0; i < pos; i++) {
             current = current.next;
         }
+        // 找到待移除的节点,分别修改前后指针指向的节点
         current.prev.next = current.next;
         current.next.prev = current.prev;
         E removedValue = current.value;

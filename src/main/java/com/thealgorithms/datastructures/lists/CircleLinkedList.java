@@ -21,6 +21,8 @@ public class CircleLinkedList<E> {
      *
      * @param <E> the type of element stored in the node
      */
+
+    // 创建一个node类,包含指向下一个节点的指针和当前值
     static final class Node<E> {
 
         Node<E> next;
@@ -39,6 +41,7 @@ public class CircleLinkedList<E> {
     /**
      * Initializes a new circular linked list. A dummy head node is used for simplicity,
      * pointing initially to itself to ensure the list is never empty.
+     * 构造方法,初始化时创建一个node,其value置为null并且指向指针指向他自己
      */
     public CircleLinkedList() {
         head = new Node<>(null, head);
@@ -66,6 +69,7 @@ public class CircleLinkedList<E> {
         if (value == null) {
             throw new NullPointerException("Cannot add null element to the list");
         }
+        // 插入一个新的节点,拿到尾节点,判断是否有后缀.
         if (tail == null) {
             tail = new Node<>(value, head);
             head.next = tail;
@@ -86,8 +90,11 @@ public class CircleLinkedList<E> {
         if (size == 0) {
             return "[]";
         }
+        // 使用sb,方便扩展存储链表中的信息
         StringBuilder sb = new StringBuilder("[ ");
+        // 经典设计,头节点不存储具体节点
         Node<E> current = head.next;
+        // 判断为空的情况就是尾节点的指针指向头节点说明回到开始节点了
         while (current != head) {
             sb.append(current.value);
             if (current.next != head) {
@@ -108,10 +115,11 @@ public class CircleLinkedList<E> {
      * @throws IndexOutOfBoundsException if the position is out of range
      */
     public E remove(int pos) {
+        // 根据int的pos进行移除
         if (pos >= size || pos < 0) {
             throw new IndexOutOfBoundsException("Position out of bounds");
         }
-
+        // 从头节点开始向后遍历,直到找到待销毁的节点的前一个节点
         Node<E> before = head;
         for (int i = 1; i <= pos; i++) {
             before = before.next;

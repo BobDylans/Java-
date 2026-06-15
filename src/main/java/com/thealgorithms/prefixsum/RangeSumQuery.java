@@ -9,7 +9,7 @@ package com.thealgorithms.prefixsum;
  *
  * <p>
  * Given an array nums, this algorithm precomputes the prefix sum array
- * to allow O(1) sum queries for any range [left, right].
+ queryUnsentSmsUsersByBatch* to allow O(1) sum queries for any range [left, right].
  * </p>
  *
  * <p>
