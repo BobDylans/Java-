@@ -6,6 +6,11 @@ import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import org.junit.jupiter.api.Test;
 
+/**
+ * 注：这里原本被误贴了 searchRange / binarySearch 方法，已移除。
+ * 二分查找相关测试请在对应的 searches 包下编写。
+ */
+
 class BufferedReaderTest {
     @Test
     public void testPeeks() throws IOException {
