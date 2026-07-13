@@ -66,6 +66,7 @@ public final class CreateAndDetectLoop {
 
         // If both nodes are valid, create the loop
         if (node1 != null && node2 != null) {
+          // 我们分别直接定位到对应的position的位置,然后将node2的next指向node1形成环
             node2.next = node1;
         }
     }
@@ -82,7 +83,9 @@ public final class CreateAndDetectLoop {
     static boolean detectLoop(Node head) {
         Node sptr = head;
         Node fptr = head;
-
+        // 这里就是经典的快慢指针
+        // 如果存在环则两个指针最终一定会在环中循环,
+        // 且双方一定会相遇 
         while (fptr != null && fptr.next != null) {
             sptr = sptr.next;
             fptr = fptr.next.next;
