@@ -209,9 +209,9 @@ public final class QuickSortSimple {
     } 
     public int jump(int[] nums) {
         int length = nums.length;
-        int curend,maxFar = 0;
+        int curend = 0,maxFar = 0;
         int step = 0;
-        for(int i = 0; i ＜length - 1;i++){
+        for(int i = 0; i < length - 1 ;i++){
           maxFar = Math.max(maxFar,i + nums[i]);
           if(i == curend){
             step++;
