@@ -1,4 +1,4 @@
-package com.thealgorithms.sorts;
+package com.thealgorithms.myexercises;
 
 import java.util.ArrayList;
 import java.util.List;

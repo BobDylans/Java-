@@ -1,4 +1,4 @@
-package com.thealgorithms.sorts;
+package com.thealgorithms.myexercises;
 
 /**
  * 55. 跳跃游戏 II (Jump Game II)
