@@ -1,6 +1,7 @@
 package com.thealgorithms.myexercises;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -104,4 +105,65 @@ public class DpProblems {
         // 因为most的语义是获取前i+1间房最大的金额
         return most[length - 1];
     }
+
+
+    public int numSquares(int n) {
+      int[] f = new int[n+1];
+      for(int i = 0; i <= n; i++){
+        int minn = Integer.MAX_VALUE;
+        // i代表的当前目标数字(也就是判断这个数是有几个完全平方数构成的)
+        // 当j^2大于i时就结束内层循环
+        // 因为我们首先要找到比i小的最大的完全平方数(j^2)!
+        for(int j = 0; j * j < i; j++){
+          // 具体的逻辑是
+          // 一步一步增加j,逐渐逼近i
+          // 只要j^2还小于i,就尝试获取 f[i - j^2]的值,因为我们遍历的过程中就从小到大将每一位所需要的最少完全平方数记录下来了
+          // 比如10,内部循环会一次遍历 j = 1,2,3(1,4,9);
+          // 每一次都是假设自己拿了对应的值(比如1),那么剩下的就是9,而根据外层循环可知,组成9的最少完全平方数我们是知道的
+          // 所以比较minn和f[9]的大小,尝试更新min(因为后面j =2,3时的对应f[i - j^2]可能更小!)如果有更小的选项我们就更新minn
+          minn = Math.min(minn,f[i - j *j]);
+        }
+        // 内层循环结束时,相当于找到了i-j^2所需要的最少完全平方数,我们只需要+1即可
+        // 因为实际上我们这一步选了j^2,只是需要知道 i - j^2 的所需的最少值 
+        f[i] = minn + 1;
+      }
+      return f[n];
+    }
+    public int coinChange(int[] coins, int amount) {
+      // 将每一位的最大值都改成amount + 1,这样就能保证更新
+      int max = amount + 1;
+      int[] dp = new int[amount +1];
+      // 调用Arrays中的fill方法将dp中每一位都先默认置成amount + 1;
+      Arrays.fill(dp,max);
+      for(int i = 1; i < amount; i++){
+        // 针对每一种硬币类型,尝试更新
+        for(int j = 0; j< coins.length;j++){
+          if(coins[j] < i){
+            dp[i] = Math.min(dp[i - coins[j]] + 1, dp[i]);
+          }
+        } 
+      }
+      
+      return dp[amount] > amount ? -1 : dp[amount];
+    }
+    public int lengthOfLIS(int[] nums) {
+        if(nums.length == 0){
+            return 0;
+        }
+        int length = nums.length;
+        int[] dp = new int[length];
+        dp[0] = 1;
+        int maxans = 1;
+        for(int i = 0; i < length; i++){
+            dp[i] = 1;
+            for(int j = 0; j < i; j++){
+                if (nums[i] > nums[j]) {
+                    dp[i] = Math.max(dp[i], dp[j] + 1);
+                }
+            }
+            maxans = Math.max(maxans,dp[i]);
+        }
+        return maxans;
+    }
+
 }
