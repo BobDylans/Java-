@@ -1,5 +1,8 @@
 package com.thealgorithms.myexercises;
 
+import java.util.Deque;
+import java.util.LinkedList;
+
 /**
  * 55. 跳跃游戏 II (Jump Game II)
  * 贪心算法：维护当前可到达的最远距离，到达边界时步数 +1
@@ -98,11 +101,40 @@ public class JumpGame {
         for (int i = 0; i < n; i++) {
             int num = nums[i];
             // 倒叙进行检索,target就是通过剪枝后剩下的 sum/2 合理的结果
-            // 对于容量j,如果本来就能凑到j(即dp[j]为true)或者dp[j - num] 
+            // 对于容量j,如果本来就能凑到j(即dp[j]为true)或者dp[j - num]
+            // 核心思想是不直接计算能否得到target,而是每次添加num(也就是外层的循环),添加之后就尝试去更新 j - num 的值,
+            // 实际上就是更新j的值,
             for (int j = target; j >= num; --j) {
                 dp[j] |= dp[j - num];
             }
         }
         return dp[target];
+    }
+    public int longestValidParentheses(String s) {
+        int maxans = 0;
+        Deque<Integer> stack = new LinkedList<Integer>();
+        stack.push(-1);
+        // 循环遍历整个s
+        for (int i = 0; i < s.length(); i++) {
+            // 如果为 "(" 左括号,直接入栈即可
+            // 这里入栈的实际上是左括号的下标
+            if (s.charAt(i) == '(') {
+                stack.push(i);
+            } else {
+                // 否则说明是右括号
+                // 吐出栈顶元素
+                stack.pop();
+                // 如果直接导致栈为空,说明左右括号不匹配,
+                // 将当前的下标作为新的起点
+                if (stack.isEmpty()) {
+                    stack.push(i);
+                } else {
+                    // 如果栈不为空,说明匹配上了,用当前的下标 i-栈顶尚未匹配的元素的下标 
+                    // 并且和maxans进行比较,若变大就更新
+                    maxans = Math.max(maxans, i - stack.peek());
+                }
+            }
+        }
+        return maxans;
     }
 }
