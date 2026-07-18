@@ -137,4 +137,29 @@ public class JumpGame {
         }
         return maxans;
     }
+    public int minPathSum(int[][] grid) {
+        if (grid == null || grid.length == 0 || grid[0].length == 0) {
+            return 0;
+        }
+        int rows = grid.length, columns = grid[0].length;
+        int[][] dp = new int[rows][columns];
+        dp[0][0] = grid[0][0];
+        // 第一行只能从左往右走,直接累加就行
+        for (int i = 1; i < rows; i++) {
+            dp[i][0] = dp[i - 1][0] + grid[i][0];
+        }
+        // 第一列是同理,只能从上往下走,依旧累加
+        // 上面的两部都在进行初始化
+        for (int j = 1; j < columns; j++) {
+            dp[0][j] = dp[0][j - 1] + grid[0][j];
+        }
+        // 之后进行一次二次循环,从上,右两个方向中选择一个最小的
+        // 加上当前节点的值即可
+        for (int i = 1; i < rows; i++) {
+            for (int j = 1; j < columns; j++) {
+                dp[i][j] = Math.min(dp[i - 1][j], dp[i][j - 1]) + grid[i][j];
+            }
+        }
+        return dp[rows - 1][columns - 1];
+    }
 }
