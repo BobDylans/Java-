@@ -162,4 +162,67 @@ public class JumpGame {
         }
         return dp[rows - 1][columns - 1];
     }
+    // 背包问题,外包内物,从1到n便利每一个数,
+    // 然后进入内循环判断每一个完全平方数加入后是否能减小组合的上限
+    public int numSquares(int n) {
+      int[] dp = new int[n+1];
+      for(int i = 1; i <=n; i++){
+        int minn = Integer.MAX_VALUE;
+        for(int j = 1;j * j< i; j++){
+          // 尝试更新dp,就是按照i - j*j的值是否存在之前的dp中
+          dp[i] = Math.min(minn,dp[i - j*j]); 
+        }
+        dp[i] = minn +1;
+      }
+      return dp[n];
+    }
+  
+    public int maxValue(int W, int[] weights, int[] values) {
+        // dp[i] 表示背包容量为 i 时能装的最大价值
+        int[] dp = new int[W + 1];
+
+        // 外层遍历物品
+        for (int i = 0; i < weights.length; i++) {
+            int weight = weights[i];
+            int value = values[i];
+            
+            // 内层必须从大到小逆序遍历背包容量！
+            // 只要剩余容量 i 大于等于当前物品的重量，就尝试装入
+            for (int i1 = W; i1 >= weight; i1--) {
+                // 核心抉择：Math.max(不放当前物品, 放当前物品并累加剩余容量的最大价值)
+                // 尝试更新dp,具体的逻辑是当前的价值dp[i]和dp[i - weight] + value
+                // 这里的weight和value分别对应的是当前选中的物体.
+                // 也就是假设如果选取了之后,是否能放背包中的value更大
+                // 重点是这里一定是逆序的,因为我们在更新的过程中依赖较小的值的dp
+                // 如果正序,会导致之后的dp会被自己所污染
+                dp[i1] = Math.max(dp[i1], dp[i1 - weight] + value);
+            }
+        }
+
+        // 最终答案就在 dp[W]
+        return dp[W];
+    }
+
+   public int majorityElement(int[] nums) {
+      // 这个题目的重点是算出来那一个数占数组中较多
+      // 首先规定一个winner(默认假设为nums[0])
+      // 麾下的小弟有0个
+      int winner = nums[0];
+      int count = 0;
+      // 开始便利数组
+      for(int num: nums){
+        if(count == 0){
+          winner = num;
+        }
+        // 如果当前进来的num和winner相同,
+        // 说明是一个阵营的,count++
+        if(num == winner){
+          count++;
+        }else{
+          // 否则--(相当于派一个小弟同归于尽了)
+          count--;
+        }
+      }
+      return winner;
+   }
 }
